@@ -33,7 +33,9 @@ public:
 }S;
 
 int main(int argc, const char** argv) {
-	string s = "[({}(({[[]]{[[]}})))]";
+	string s;
+	cin >> s;
+	cout << s;
 	cout << S.isValid(s);
 	return 0;
 }
