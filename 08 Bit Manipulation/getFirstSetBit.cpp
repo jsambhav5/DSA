@@ -1,20 +1,20 @@
 #include <iostream>
 using namespace std;
 
-
-unsigned int getFirstSetBit(int n){
-	int temp = (n&(n-1))^n;
-	//temp = n;
-	int count = 1;
-	while (temp > 0){
-		if(temp&1==1)	
-		return count;
+unsigned int getFirstSetBit(int n) {
+	int count = 0;
+	while (n > 0) {
+		if (n & 1)
+			return count;
 		count++;
-		temp = temp>>1;
+		n = n >> 1;
 	}
-	return 0;
+	return -1;
 }
 
-int main(){
-    std::cout<<getFirstSetBit(12);
+int main() {
+	int num;
+	cin >> num;
+	int result = getFirstSetBit(num);
+	cout << result;
 }
