@@ -1,0 +1,167 @@
+Iterators
+	- iterator // iterating pointer
+	- auto // can directly assign type even to an iterator
+	- for each // can directly use value using `auto`
+	- comparator // helps in writing a boolean function to define comparison operation in sorting or other functions
+	
+Functions
+	- swap() // independent function, swaps 2 containers
+	- accumulate() // keep the sum over an iterator based on first and next to last pointer
+	- count() // count occurence of a value between a range of iterators
+	- find() // return the iterator pointing to the first occurence of a given value in a given range of iterator
+			 // return iterator next to end if no such element is found
+	- next_permutation() // sets given string to the next permutation of a substring of given iterator range (excluding last)
+	- prev_permutation() // sets given string to the prev permutation of a substring of given iterator range (excluding last)
+	- max_element() // returns pointer at largest element in the given iterator range
+	- min_element() // returns pointer at smallest element in the given iterator range
+	- reverse() // reverse the values for a given range of iterators (excluding last)
+	- pow(a, b) // returns a raise to the power b
+
+Algorithms
+	- sort() // merge-sort O(nLogn) based on 1st and nect to last pointer
+
+Containers
+	1. pairs (utility library)
+		* implements heterogenous tuples
+		* used to implement map, hash_map
+		* nesting is possible
+
+		keywords:
+			- first // value at first
+			- second // value at second
+
+	2. vectors:
+		* uses array to implement
+		* access is O(1) ie random access is possible
+		* insertion, deletion are costly
+
+		methods:
+			- initialisation
+			- access element
+			- push_back() // inserts at last
+			- emplace_back() // more optimised for inserting at last, uses move constructor
+			- pop_back() // removes last element
+			- insert() // inserts based on pointer, inserts before the pointer. also can add same value multiple times
+			- erase() // deletes element at the pointer or between a range
+			- clear() // clears the container
+			- empty() // return true if empty
+			- size() // return the size of vector
+			- front() // value at first
+			- back() // value at last
+			- begin() // interator at first
+			- end() // interator at after last
+			- rbegin() // reverse interator at last
+			- rend() // reverse interator at before first
+
+	3. list
+		* uses linked list to implement
+		* all vector methods works here
+
+		methods:
+			- push_front() // inserts at first
+			- emplace_front() // more optimised for inserting at first, uses move constructor
+
+	4. deque (double ended queue, not contiguous)
+		* similar functions as vector
+		* uses duble ended queue (Linked List) to implement
+		* Good for insertions and deletions
+		* Bad for random access when compared to vector
+
+	5. stack (LIFO)
+		- push() // inserts at the top of the stack
+		- emplace() // more optimised for pushing at top, uses move constructor
+		- top() //  returns the top element
+		- pop() // deletes element at the top
+		- size() // retrns the size of the stack
+		- empty() // return true if stack is empty
+
+	6. queue (FIFO)
+		- push() // inserts at the Rear of the stack
+		- emplace() // more optimised for pushing, uses move constructor
+		- pop() // deletes element at the Front
+		- size() // retrns the size of the queue
+		- empty() // return true if queue is empty
+		- front() // returns the value at front
+
+	7. priority_queue 
+		* Heap implemented
+		* Stores the highest element at top
+		* Insertion and deletion is log(n)
+		* Behave as a sorted array
+		* priority_queue<int, vector<int>, greater<int>> pr // for minimum heap
+		* repeatition is allowed
+
+		methods:
+			- push() // inserts an element according to respective position ie highest number on top
+			- emplace() // more optimised for pushing, uses move constructor
+			- top() //  returns the top (highest) element
+			- pop() // deletes element at the top (highest element)
+			- size() // retrns the size of the priority queue
+			- empty() // return true if priority queue is empty
+
+	8. set
+		* stores on the unique values
+		* in ascending order
+
+		methods:
+			- insert() // inserts an element according to respective position if that value is not already present
+			- count() //  returns the count of an element
+			- find() // returns iterator of an element if it is present, else return the iterator at next to set end
+			- end() // iterator at next to end
+			- erase() // to erase an element using value/iterators/range
+			- lower_bound() // returns iterator to element that is greater than or equal to a given number
+							// returns iterator next to end if no succh number exists
+			- upper_bound() // returns iterator to element that is strictly greater than a given number
+							// returns iterator next to end if no succh number exists
+
+	9. multiset
+		* similar to set
+		* stores repeating elements as well
+		* in ascending order
+
+		methods:
+			- insert() // inserts an element according to respective position
+			- count() //  returns the count of an element
+			- find() // returns iterator of 1st occurence of an element if it exists, else return the iterator at next to set end
+			- end() // iterator at next to end
+			- erase() // to erase all occurence of an element using value/iterators/range
+			- lower_bound() // returns iterator to element that is greater than or equal to a given number
+							// returns iterator next to end if no succh number exists
+			- upper_bound() // returns iterator to element that is strictly greater than a given number
+							// returns iterator next to end if no succh number exists
+
+	10. unordered_set
+		* stores on the unique values
+		* without an order
+		* mostly same as set
+		* don't have lower and upper Bound
+		* better time complexity than set mostly constant read and write
+
+	11. map
+		* stores data in key-value pairs
+		* keys are stored in ascending order
+
+		methods:
+			- insert() / emplace() // inserts a key-value pair using braces{} if key is not already present
+			- find() // return the iterator of the pair with given key or returns the pointer next to end if given key is not present
+			- empty() // return true if map is empty
+			- size() // return size of map
+			- lower_bound() // returns iterator to the pair that has key greater than or equal to a given number
+							// returns iterator next to end if no such key exists
+			- upper_bound() // returns iterator to the pair that has key strictly greater than a given number
+							// returns iterator next to end if no such key exists
+
+	12. unordered_map
+		* stores data in key-value pairs
+		* without an order
+		* mostly same as map
+		* don't have lower and upper Bound
+		* better time complexity than set mostly constant read and write
+
+	13. multimap
+		* similar to map
+		* stores repeating keys with different values as well
+		* in ascending order of keys
+
+		methods:
+		- equal_range() // gives pair of iterators with first and end iterator of all the key-value pairs with given keys
