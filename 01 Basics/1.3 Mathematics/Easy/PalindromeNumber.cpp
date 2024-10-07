@@ -1,3 +1,5 @@
+// TUF+ : https://takeuforward.org/plus/data-structures-and-algorithm/beginner-problems/basic-maths/palindrome-number
+
 class Solution {
 public:
     bool isPalindrome(int x) {
