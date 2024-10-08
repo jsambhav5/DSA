@@ -1,16 +1,20 @@
+// TUF+ : https://takeuforward.org/plus/data-structures-and-algorithm/beginner-problems/basic-recursion/reverse-an-array
+
 #include <bits/stdc++.h>
 using namespace std;
 
 class Solution {
 private:
 	void rev(vector<int>& arr, int start, int end) {
-		if (start >= end) return;
-		swap(arr[start++], arr[end--]);
-		rev(arr, start, end);
+		if (start < end) {
+			swap(arr[start], arr[end]);
+			rev(arr, start + 1, end - 1);
+		}
 	}
 public:
-	void reverseArray(vector<int>& arr) {
-		rev(arr, 0, arr.size() - 1);
+	vector<int> reverseArray(vector<int>& nums) {
+		rev(nums, 0, nums.size() - 1);
+		return nums;
 	}
 };
 
