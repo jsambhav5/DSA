@@ -56,7 +56,7 @@ Containers
 	3. list
 		* uses doubly linked-list to implement
 		* all vector methods works here
-		* for singly linked-list, use forward_lisy
+		* for singly linked-list, use forward_list
 
 		methods:
 			- push_front() // inserts at first
