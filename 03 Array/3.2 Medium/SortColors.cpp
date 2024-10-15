@@ -1,6 +1,7 @@
 // LeetCode 75
 // TUF+ : https://takeuforward.org/plus/data-structures-and-algorithm/arrays/faqs-medium/sort-an-array-of-0's-1's-and-2's
 
+// Sort an array of 0's 1's and 2's
 class Solution {
 public:
 	void sortColors(vector<int>& nums) {
