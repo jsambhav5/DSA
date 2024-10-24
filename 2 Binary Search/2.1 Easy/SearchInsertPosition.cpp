@@ -1,6 +1,8 @@
 // LeetCode : 35 - Search Insert Position (https://leetcode.com/problems/search-insert-position/)
 // TUF+ : Search Insert Position (https://takeuforward.org/plus/data-structures-and-algorithm/binary-search/logic-building/search-insert-position)
 
+// Same as "Lower Bound"
+
 #include <bits/stdc++.h>
 using namespace std;
 
