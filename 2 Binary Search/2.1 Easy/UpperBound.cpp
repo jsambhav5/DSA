@@ -1,4 +1,4 @@
-// TUF+ : Upper Bound (https://takeuforward.org/plus/data-structures-and-algorithm/binary-search/fundamentals/lower-bound)
+// TUF+ : Upper Bound (https://takeuforward.org/plus/data-structures-and-algorithm/binary-search/fundamentals/upper-bound)
 
 #include <bits/stdc++.h>
 using namespace std;
