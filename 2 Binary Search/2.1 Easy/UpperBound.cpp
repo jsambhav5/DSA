@@ -8,9 +8,9 @@ public:
 	int lowerBound(vector<int>& nums, int x) {
 		int ans = nums.size();
 		int low = 0, high = ans - 1;
-		int mid;
+		
 		while (low <= high) {
-			mid = (low + high) / 2;
+			int mid = (low + high) / 2;
 
 			if (nums[mid] > x) {
 				ans = mid;

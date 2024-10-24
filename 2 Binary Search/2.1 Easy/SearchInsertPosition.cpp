@@ -1,18 +1,19 @@
-// TUF+ : Lower Bound (https://takeuforward.org/plus/data-structures-and-algorithm/binary-search/fundamentals/lower-bound)
+// LeetCode : 35 - Search Insert Position (https://leetcode.com/problems/search-insert-position/)
+// TUF+ : Search Insert Position (https://takeuforward.org/plus/data-structures-and-algorithm/binary-search/logic-building/search-insert-position)
 
 #include <bits/stdc++.h>
 using namespace std;
 
 class Solution {
 public:
-	int lowerBound(vector<int>& nums, int x) {
+	int searchInsert(vector<int>& nums, int target) {
 		int ans = nums.size();
 		int low = 0, high = ans - 1;
-		
+
 		while (low <= high) {
 			int mid = (low + high) / 2;
 
-			if (nums[mid] >= x) {
+			if (nums[mid] >= target) {
 				ans = mid;
 				high = mid - 1;
 			}
@@ -40,12 +41,12 @@ int main() {
 			arr.push_back(input);
 		}
 
-		int x;
-		cin >> x;
+		int target;
+		cin >> target;
 
 		Solution sol;
 
-		int ans = sol.lowerBound(arr, x);
+		int ans = sol.searchInsert(arr, target);
 
 		cout << ans << endl;
 	}
