@@ -1,3 +1,9 @@
+// LeetCode : 704 - Binary Search (https://leetcode.com/problems/binary-search/)
+// TUF+ : Binary Search (LINK)
+
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
 	int search(vector<int>& nums, int target) {
@@ -20,3 +26,48 @@ public:
 		return -1;
 	}
 };
+
+int main() {
+	int t;
+	cin >> t;
+
+	while (t--) {
+		int n;
+		cin >> n;
+
+		vector<int> arr;
+
+		for (int i = 0; i < n; i++) {
+			int input;
+			cin >> input;
+			arr.push_back(input);
+		}
+
+		int target;
+		cin >> target;
+
+		Solution sol;
+
+		int ans = sol.search(arr, target);
+
+		cout << ans << endl;
+	}
+
+	return 0;
+}
+
+/*
+Test Input : 
+2
+6
+-1 0 3 5 9 12
+9
+6
+-1 0 3 5 9 12
+2
+
+Test Output : 1
+4
+-1
+
+*/ 
