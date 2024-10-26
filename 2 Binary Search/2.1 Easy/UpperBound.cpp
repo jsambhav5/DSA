@@ -5,7 +5,7 @@ using namespace std;
 
 class Solution {
 public:
-	int lowerBound(vector<int>& nums, int x) {
+	int upperBound(vector<int>& nums, int x) {
 		int ans = nums.size();
 		int low = 0, high = ans - 1;
 		
@@ -45,7 +45,7 @@ int main() {
 
 		Solution sol;
 
-		int ans = sol.lowerBound(arr, x);
+		int ans = sol.upperBound(arr, x);
 
 		cout << ans << endl;
 	}
