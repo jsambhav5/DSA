@@ -1,6 +1,11 @@
 // LeetCode : 34 - Find First and Last Position of Element in Sorted Array (https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
 // TUF+ : First and last occurrence (https://takeuforward.org/plus/data-structures-and-algorithm/binary-search/logic-building/first-and-last-occurrence)
 
+/*
+Approach:
+Used Upper-Bound and Lower-Bound
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
