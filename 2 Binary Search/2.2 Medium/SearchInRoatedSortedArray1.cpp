@@ -14,8 +14,6 @@ else => eleminate sorted
 using namespace std;
 
 class Solution {
-private:
-
 public:
 	int search(vector<int>& nums, int target) {
 		int n = nums.size();
@@ -63,9 +61,6 @@ int main() {
 
 		int target;
 		cin >> target;
-
-		// vector<int> arr = { 4, 5, 6, 7, 0, 1, 2 };
-		// int target = 0;
 
 		Solution sol;
 
