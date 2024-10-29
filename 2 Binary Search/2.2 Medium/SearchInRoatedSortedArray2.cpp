@@ -3,7 +3,7 @@
 
 /*
 Approach:
-similar to rotated sorted array with just 1 extra edge case
+similar to "search in rotated sorted array "with just 1 extra edge case
 
 if nums[low] == nums[mid] == nums[high] => low++, high++;
 */
