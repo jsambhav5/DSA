@@ -1,37 +1,100 @@
+// LeetCode : 875 - Koko Eating Bananas (https://leetcode.com/problems/koko-eating-bananas)
+// TUF+ : Koko eating bananas (https://takeuforward.org/plus/data-structures-and-algorithm/binary-search/on-answers/koko-eating-bananas)
+
+/*
+Approach: Binary Search On Answers
+Instead of checking for every no. of banas per hour, we can just check for (min + max) / 2
+where min starts with 1 and max starts with bananas in biggest pile
+if possible solution exists, then ans is in left half else ans is in right half
+
+TC: O(N * log(max))
+SC: O(1)
+*/
+
+#include <bits/stdc++.h>
+using namespace std;
 class Solution {
 private:
-	int findMax(vector<int>& piles) {
-		int maxi = INT_MIN;
-		int n = piles.size();
-
-		for (int i = 0; i < n; i++) {
-			maxi = max(maxi, piles[i]);
+	bool possible(vector<int> nums, int h, int k) {
+		long sum = 0;
+		for (int i = 0; i < nums.size(); i++) {
+			sum += nums[i] / k;
+			if (nums[i] % k != 0) sum++;
 		}
-		return maxi;
-	}
 
-	double calculateTotalHours(vector<int>& piles, int hourly) {
-		double totalH = 0;
-		int n = piles.size();
-
-		for (int i = 0; i < n; i++) {
-			totalH += ceil((double)piles[i] / (double)hourly);
-		}
-		return totalH;
+		return sum <= h;
 	}
 
 public:
-	int minEatingSpeed(vector<int>& piles, int h) {
-		int low = 1, high = findMax(piles);
+	int minEatingSpeed(vector<int> nums, int h) {
+		int low = 1, high = INT_MIN;
+		int result = -1;
+
+		for (int i : nums)
+			high = max(high, i);
 
 		while (low <= high) {
 			int mid = (low + high) / 2;
-			double totalH = calculateTotalHours(piles, mid);
-			if (totalH <= h)
+
+			if (possible(nums, h, mid)) {
+				result = mid;
 				high = mid - 1;
-			else
-				low = mid + 1;
+			}
+			else low = mid + 1;
 		}
-		return low;
+
+		return result;
 	}
 };
+
+int main() {
+	int t;
+	cin >> t;
+
+	while (t--) {
+		int n;
+		cin >> n;
+
+		vector<int> arr;
+
+		for (int i = 0; i < n; i++) {
+			int input;
+			cin >> input;
+			arr.push_back(input);
+		}
+
+		int h;
+		cin >> h;
+
+		Solution sol;
+
+		int ans = sol.minEatingSpeed(arr, h);
+
+		cout << ans << endl;
+	}
+
+	return 0;
+}
+
+/*
+Test Input : 
+3
+
+4
+7 15 6 3
+8
+
+5
+25 12 8 14 19
+5
+
+4
+3 7 6 11
+8
+
+Test Output : 1
+8
+25
+4
+
+*/ 
