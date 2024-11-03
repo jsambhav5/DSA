@@ -39,6 +39,32 @@ public:
     }
 };
 
+int main() {
+    int t;
+    cin >> t;
+
+    while (t--) {
+        int n;
+        cin >> n;
+
+        vector<int> arr;
+
+        for (int i = 0; i < n; i++) {
+            int input;
+            cin >> input;
+            arr.push_back(input);
+        }
+
+        Solution sol;
+
+        int res = sol.findPeakElement(arr);
+
+        cout << res << endl;
+    }
+
+    return 0;
+}
+
 /*
 Test Input : 
 3
