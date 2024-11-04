@@ -2,7 +2,7 @@
 
 /*
 Approach:
-Used Binary Search to ount number of 1s in rach row
+Used Binary Search to count number of 1s in rach row
 
 TC: O(N*logM)
 SC: O(1)
