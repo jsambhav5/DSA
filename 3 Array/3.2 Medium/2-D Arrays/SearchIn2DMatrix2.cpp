@@ -3,12 +3,12 @@
 
 /*
 Approach:
-started with the upper right corner
+Started with the upper right corner
 if element == target, return true
 if element > target, col--
 else row++
 
-TC: O(log(m * n))
+TC: O(m + n))
 SC: O(1)
 */
 
