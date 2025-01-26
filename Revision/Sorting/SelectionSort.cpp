@@ -8,20 +8,26 @@ TC: O(N^2)
 SC: O(1)
 */
 
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 class Solution {
 public:
 	vector<int> selectionSort(vector<int>& nums) {
-		for (int i = 0; i < nums.size() - 1; i++) {
-			int minIndex = i;
-			for (int j = i + 1; j < nums.size(); j++) {
-				if (nums[j] < nums[minIndex])
-					minIndex = j;
+		int n = nums.size();
+		for (int i = 0; i < n - 1; i++) {
+			int min_index = i;
+			int min = nums[i];
+			for (int j = i + 1; j < n; j++) {
+				if (nums[j] < min) {
+					min_index = j;
+					min = nums[j];
+				}
 			}
-			if (minIndex != i)
-				swap(nums[i], nums[minIndex]);
+			if (i != min_index) {
+				nums[min_index] = nums[i];
+				nums[i] = min;
+			}
 		}
 		return nums;
 	}

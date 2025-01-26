@@ -14,14 +14,13 @@ using namespace std;
 class Solution {
 public:
 	vector<int> bubbleSort(vector<int>& nums) {
-		for (int i = nums.size() - 1; i > 0; i--) {
-			bool didSwap = false;
-			for (int j = 0; j < i; j++)
-				if (nums[j] > nums[j + 1]) {
-					swap(nums[j], nums[j + 1]);
-					didSwap = true;
+		int n = nums.size();
+		for (int i = n; i > 1; i--) {
+			for (int j = 1; j < i; j++) {
+				if (nums[j] < nums[j - 1]) {
+					swap(nums[j], nums[j - 1]);
 				}
-			if (didSwap) break;
+			}
 		}
 		return nums;
 	}
@@ -72,4 +71,3 @@ Test Output : 1
 1 1 4 4 5
 
 */
-
