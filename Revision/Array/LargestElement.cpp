@@ -2,7 +2,7 @@
 
 /*
 Approach:
-Used Two-Pointers to solve this
+Used Linear Search to solve this
 
 TC: O(N)
 SC: O(1)
