@@ -14,10 +14,11 @@ using namespace std;
 class Solution {
 public:
 	int largestElement(vector<int>& nums) {
-		int ans = nums[0];
-		for (int i = 1; i < nums.size(); i++)
-			ans = max(ans, nums[i]);
-		return ans;
+		int res = INT_MIN;
+		for (int i : nums) {
+			res = max(res, i);
+		}
+		return res;
 	}
 };
 
