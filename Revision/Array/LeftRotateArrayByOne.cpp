@@ -2,7 +2,7 @@
 
 /*
 Approach:
-APPROACH
+Used Linear Traversal to solve this
 
 TC: O(N)
 SC: O(1)
