@@ -14,21 +14,19 @@ using namespace std;
 class Solution {
 public:
 	int secondLargestElement(vector<int>& nums) {
-		if (nums.size() < 2) return -1;
-		int maxEle = nums[0], secondMaxEle = INT_MIN, flag = 0;
+		int secondLargest = INT_MIN;
+		int largest = nums[0];
+
 		for (int i : nums) {
-			if (i > maxEle) {
-				secondMaxEle = maxEle;
-				maxEle = i;
-				flag = 1;
+			if (i > largest) {
+				secondLargest = largest;
+				largest = i;
 			}
-			else if (i > secondMaxEle && i != maxEle) {
-				secondMaxEle = i;
-				flag = 1;
+			else if (i > secondLargest && i != largest) {
+				secondLargest = i;
 			}
 		}
-		if (flag == 0) return -1;
-		return secondMaxEle;
+		return secondLargest != INT_MIN ? secondLargest : -1;
 	}
 };
 
