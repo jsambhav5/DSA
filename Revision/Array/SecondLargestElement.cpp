@@ -1,4 +1,4 @@
-// TUF+ : Second Largest Element (https://takeuforward.org/plus/data-structures-and-algorithm/arrays/fundamentals/second-largest-element)
+// TUF+ : Second Largest Element (https://takeuforward.org/plus/dsa/arrays/fundamentals/second-largest-element)
 
 /*
 Approach:
