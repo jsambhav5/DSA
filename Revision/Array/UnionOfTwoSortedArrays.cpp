@@ -15,34 +15,41 @@ using namespace std;
 class Solution {
 public:
 	vector<int> unionArray(vector<int>& nums1, vector<int>& nums2) {
-		vector<int> arr;
-		int i = 0, j = 0;
-		while (i < nums1.size() && j < nums2.size()) {
-			if (nums1[i] <= nums2[j]) {
-				if (arr.size() == 0 || nums1[i] != arr.back())
-					arr.push_back(nums1[i]);
-				i++;
+		vector<int> nums;
+		int n1 = nums1.size();
+		int n2 = nums2.size();
+		int i1 = 0, i2 = 0;
+
+		while (i1 < n1 && i2 < n2) {
+			if (nums1[i1] <= nums2[i2]) {
+				if (nums.size() == 0 || nums.back() != nums1[i1]) {
+					nums.push_back(nums1[i1]);
+				}
+				i1++;
 			}
 			else {
-				if (arr.size() == 0 || nums2[j] != arr.back())
-					arr.push_back(nums2[j]);
-				j++;
+				if (nums.size() == 0 || nums.back() != nums2[i2]) {
+					nums.push_back(nums2[i2]);
+				}
+				i2++;
 			}
 		}
 
-		while (i < nums1.size()) {
-			if (nums1[i] != arr.back())
-				arr.push_back(nums1[i]);
-			i++;
+		while (i1 < n1) {
+			if (nums.back() != nums1[i1]) {
+				nums.push_back(nums1[i1]);
+			}
+			i1++;
 		}
 
-		while (j < nums2.size()) {
-			if (nums2[j] != arr.back())
-				arr.push_back(nums2[j]);
-			j++;
+		while (i2 < n2) {
+			if (nums.back() != nums2[i2]) {
+				nums.push_back(nums2[i2]);
+			}
+			i2++;
 		}
 
-		return arr;
+		return nums;
 	}
 };
 
