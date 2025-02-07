@@ -12,33 +12,31 @@ SC: O(N)
 using namespace std;
 
 class Solution {
-
 public:
 	int longestConsecutive(vector<int>& nums) {
 		int n = nums.size();
+		int result = 0;
+		unordered_set<int> hash;
 
-		if (n == 0) return 0;
+		for (int i : nums) {
+			hash.insert(i);
+		}
 
-		unordered_set<int> mem;
-		int longest = 1;
-
-		for (int i = 0; i < n; i++)
-			mem.insert(nums[i]);
-
-		for (int i : mem) {
-			if (mem.find(i - 1) == mem.end()) {
-				int count = 1;
+		for (int i : hash) {
+			if (hash.find(i - 1) == hash.end()) {
 				int x = i;
+				int count = 1;
 
-				while (mem.find(x + 1) != mem.end()) {
+				while (hash.find(x + 1) != hash.end()) {
 					x++;
 					count++;
 				}
-				longest = max(longest, count);
+
+				result = max(result, count);
 			}
 		}
 
-		return longest;
+		return result;
 	}
 };
 
