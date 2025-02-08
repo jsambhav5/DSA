@@ -15,19 +15,28 @@ using namespace std;
 class Solution {
 public:
 	vector<int> intersectionArray(vector<int>& nums1, vector<int>& nums2) {
-		vector<int> arr;
-		int i = 0, j = 0;
-		while (i < nums1.size() && j < nums2.size()) {
-			if (nums1[i] < nums2[j]) i++;
-			else if (nums1[i] > nums2[j]) j++;
+		vector<int> nums;
+		int n1 = nums1.size();
+		int n2 = nums2.size();
+		int i1 = 0, i2 = 0;
+
+		while (i1 < n1 && i2 < n2) {
+			int num1 = nums1[i1];
+			int num2 = nums2[i2];
+
+			if (num1 == num2) {
+				nums.push_back(num1);
+				i1++;
+				i2++;
+			}
+			else if (num1 < num2) {
+				i1++;
+			}
 			else {
-				arr.push_back(nums2[j]);
-				i++;
-				j++;
+				i2++;
 			}
 		}
-
-		return arr;
+		return nums;
 	}
 };
 
