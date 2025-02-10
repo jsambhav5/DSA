@@ -13,18 +13,28 @@ SC: O(N)
 using namespace std;
 
 class Solution {
+private:
+
 public:
 	vector<int> twoSum(vector<int>& nums, int target) {
-		vector<int> result;
-		map<int, int> mem;
-		for (int i = 0; i < nums.size(); i++)
-			if (mem[target - nums[i]]) {
-				result.push_back(mem[target - nums[i]] - 1);
-				result.push_back(i);
-				break;
+		unordered_map<int, int> hash;
+		vector<int> res;
+		int n = nums.size();
+
+		for (int i = 0; i < n; i++) {
+			int num = nums[i];
+
+			if (hash.find(target - num) != hash.end()) {
+				res.push_back(i);
+				res.push_back(hash[target - num]);
 			}
-			else mem[nums[i]] = i + 1;
-		return result;
+			else {
+				hash[num] = i;
+			}
+		}
+
+		sort(res.begin(), res.end());
+		return res;
 	}
 };
 
