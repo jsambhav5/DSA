@@ -26,7 +26,7 @@ public:
 				mid++;
 			}
 			else {
-				swap(nums[high], nums[mid]);
+				swap(nums[mid], nums[high]);
 				high--;
 			}
 		}
