@@ -8,7 +8,7 @@ public:
 	int upperBound(vector<int>& nums, int x) {
 		int ans = nums.size();
 		int low = 0, high = ans - 1;
-		
+
 		while (low <= high) {
 			int mid = (low + high) / 2;
 
@@ -16,7 +16,7 @@ public:
 				ans = mid;
 				high = mid - 1;
 			}
-			
+
 			else low = mid + 1;
 		}
 
@@ -24,7 +24,7 @@ public:
 	}
 };
 
-int main() {
+int main(int argc, const char** argv) {
 	int t;
 	cin >> t;
 
@@ -54,7 +54,7 @@ int main() {
 }
 
 /*
-Test Input : 
+Test Input :
 5
 
 6
@@ -84,4 +84,4 @@ Test Output : 1
 3
 0
 
-*/ 
+*/

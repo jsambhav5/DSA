@@ -8,11 +8,11 @@ class Solution {
 public:
 	int maxProduct(vector<int>& nums) {
 		int n = nums.size();
-		
+
 		int ans = INT_MIN;
 		int pre = 1, suff = 1;
 
-		for(int i = 0; i < n; i++) {
+		for (int i = 0; i < n; i++) {
 			if (pre == 0) pre = 1;
 			if (suff == 0) suff = 1;
 
@@ -21,16 +21,16 @@ public:
 
 			ans = max(ans, max(pre, suff));
 		}
-		
+
 		return ans;
 	}
 };
 
-int main() {
+int main(int argc, const char** argv) {
 	int t;
 	cin >> t;
 
-	while(t--) {
+	while (t--) {
 		int n;
 		cin >> n;
 
@@ -54,7 +54,7 @@ int main() {
 
 
 /*
-Test Input : 
+Test Input :
 3
 6
 4 5 3 7 1 2
@@ -63,9 +63,9 @@ Test Input :
 6
 1 -2 3 4 -4 -3
 
-Test Output : 
+Test Output :
 840
-0 
+0
 144
 
-*/ 
+*/

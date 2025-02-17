@@ -33,7 +33,7 @@ public:
 	}
 };
 
-int main() {
+int main(int argc, const char** argv) {
 	int t;
 	cin >> t;
 

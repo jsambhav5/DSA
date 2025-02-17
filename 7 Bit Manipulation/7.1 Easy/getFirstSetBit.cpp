@@ -12,7 +12,7 @@ unsigned int getFirstSetBit(int n) {
 	return -1;
 }
 
-int main() {
+int main(int argc, const char** argv) {
 	int num;
 	cin >> num;
 	int result = getFirstSetBit(num);

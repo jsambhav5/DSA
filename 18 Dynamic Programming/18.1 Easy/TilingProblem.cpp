@@ -12,7 +12,7 @@ int countingWays(int N, int* mem) {
 	return countingWays(N - 1, mem) + countingWays(N - 2, mem);
 }
 
-int main() {
+int main(int argc, const char** argv) {
 	int N;
 	cin >> N;
 	int mem[N] = { 0 };

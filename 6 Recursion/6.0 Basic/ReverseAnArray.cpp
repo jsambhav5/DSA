@@ -18,7 +18,7 @@ public:
 	}
 };
 
-int main() {
+int main(int argc, const char** argv) {
 	vector<int> arr = { 1, 2, 3, 4, 5 };
 
 	Solution ob;

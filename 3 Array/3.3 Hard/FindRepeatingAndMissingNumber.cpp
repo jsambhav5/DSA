@@ -14,7 +14,7 @@ public:
 			xr ^= nums[i];
 		}
 
-		int shift =  (xr & ~(xr - 1));
+		int shift = (xr & ~(xr - 1));
 
 		int zero = 0, one = 0;
 
@@ -31,23 +31,23 @@ public:
 		}
 
 		int count = 0;
-		for(int i = 0; i < n; i++) {
-			if(zero == nums[i]) {
+		for (int i = 0; i < n; i++) {
+			if (zero == nums[i]) {
 				count++;
 				break;
 			}
 		}
 
-		if(count) return {zero, one};
-		return {one, zero};
+		if (count) return { zero, one };
+		return { one, zero };
 	}
 };
 
-int main() {
+int main(int argc, const char** argv) {
 	int t;
 	cin >> t;
 
-	while(t--) {
+	while (t--) {
 		int n;
 		cin >> n;
 
@@ -75,7 +75,7 @@ int main() {
 
 
 /*
-Test Input : 
+Test Input :
 3
 5
 3 5 4 1 1
@@ -85,7 +85,7 @@ Test Input :
 6 5 7 1 8 6 4 3 2
 
 Test Output : 1
-1 2 
-7 4 
-6 9 
-*/ 
+1 2
+7 4
+6 9
+*/

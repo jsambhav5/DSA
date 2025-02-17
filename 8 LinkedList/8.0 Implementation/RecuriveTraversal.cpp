@@ -1,32 +1,32 @@
 #include<iostream>
 using namespace std;
 
-class List{
-    int data;
-    
-    public:
-    List *next;
+class List {
+	int data;
 
-    List(int data){
-        this->data = data;
-        next = NULL;
-    }
+public:
+	List* next;
 
-    void recursiveTravel(){
-        cout<<data<<" ";
+	List(int data) {
+		this->data = data;
+		next = NULL;
+	}
 
-        if(next == NULL) return;
+	void recursiveTravel() {
+		cout << data << " ";
 
-        next->recursiveTravel();       
-    }
+		if (next == NULL) return;
 
-    ~List();
+		next->recursiveTravel();
+	}
+
+	~List();
 };
 
-int main(){
-    List *head = new List(10);
-    head->next = new List(20);
-    head->next->next = new List(30);
-    head->recursiveTravel();
-    return 0;
+int main(int argc, const char** argv) {
+	List* head = new List(10);
+	head->next = new List(20);
+	head->next->next = new List(30);
+	head->recursiveTravel();
+	return 0;
 }

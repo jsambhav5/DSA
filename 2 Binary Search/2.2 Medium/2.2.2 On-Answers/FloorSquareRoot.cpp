@@ -28,7 +28,7 @@ public:
 	}
 };
 
-int main() {
+int main(int argc, const char** argv) {
 	int t;
 	cin >> t;
 
@@ -39,7 +39,7 @@ int main() {
 		Solution sol;
 
 		int ans = sol.floorSqrt(n);
-			
+
 		cout << ans << endl;
 	}
 
@@ -47,7 +47,7 @@ int main() {
 }
 
 /*
-Test Input : 
+Test Input :
 3
 36
 28
@@ -58,4 +58,4 @@ Test Output : 1
 5
 7
 
-*/ 
+*/

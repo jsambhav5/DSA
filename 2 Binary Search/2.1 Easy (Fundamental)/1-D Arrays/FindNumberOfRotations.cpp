@@ -40,7 +40,7 @@ public:
 	}
 };
 
-int main() {
+int main(int argc, const char** argv) {
 	int t;
 	cin >> t;
 
@@ -59,15 +59,15 @@ int main() {
 		Solution sol;
 
 		int ans = sol.findKRotation(arr);
-			
-		cout <<  ans << endl;
+
+		cout << ans << endl;
 	}
 
 	return 0;
 }
 
 /*
-Test Input : 
+Test Input :
 3
 
 8
@@ -84,4 +84,4 @@ Test Output : 1
 3
 2
 
-*/ 
+*/

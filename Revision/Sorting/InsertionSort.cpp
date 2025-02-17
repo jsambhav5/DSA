@@ -17,7 +17,7 @@ public:
 		int n = nums.size();
 		for (int i = 1; i < n; i++) {
 			int j = i - 1;
-			while(nums[j] > nums[j + 1] && j >= 0) {
+			while (nums[j] > nums[j + 1] && j >= 0) {
 				swap(nums[j], nums[j + 1]);
 				j--;
 			}
@@ -26,7 +26,7 @@ public:
 	}
 };
 
-int main() {
+int main(int argc, const char** argv) {
 	int t;
 	cin >> t;
 

@@ -46,11 +46,11 @@ public:
 	}
 };
 
-int main() {
+int main(int argc, const char** argv) {
 	int t;
 	cin >> t;
 
-	while(t--) {
+	while (t--) {
 		int n, target;
 		cin >> target;
 		cin >> n;
@@ -70,7 +70,7 @@ int main() {
 		cout << "[ ";
 		for (auto vec : ans) {
 			cout << "[";
-			for(auto ele :  vec)
+			for (auto ele : vec)
 				cout << ele << " ";
 			cout << "] ";
 		}
@@ -82,7 +82,7 @@ int main() {
 
 
 /*
-Test Input : 
+Test Input :
 3
 7 6
 1 -2 3 5 7 9
@@ -96,4 +96,4 @@ Test Output : 1
 [ ]
 [ [-3 1 3 4 ] ]
 
-*/ 
+*/

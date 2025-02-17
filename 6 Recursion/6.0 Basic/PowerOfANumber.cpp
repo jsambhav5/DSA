@@ -16,14 +16,14 @@ public:
 	}
 };
 
-int main() {
+int main(int argc, const char** argv) {
 	int t;
 	cin >> t;
 
 	while (t--) {
 		double x;
 		int n;
-		cin  >> x >> n;
+		cin >> x >> n;
 
 		Solution sol;
 
@@ -36,7 +36,7 @@ int main() {
 }
 
 /*
-Test Input : 
+Test Input :
 3
 
 2.0000
@@ -53,4 +53,4 @@ Test Output : 1
 0.2500
 6.25
 
-*/ 
+*/

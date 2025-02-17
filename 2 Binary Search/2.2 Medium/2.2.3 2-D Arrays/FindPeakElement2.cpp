@@ -50,7 +50,7 @@ public:
 	}
 };
 
-int main() {
+int main(int argc, const char** argv) {
 	int t;
 	cin >> t;
 
@@ -75,10 +75,10 @@ int main() {
 
 		vector<int> res = sol.findPeakGrid(matrix);
 
-		for(auto i : res) {
+		for (auto i : res) {
 			cout << i << " ";
 		}
-			
+
 		cout << endl;
 	}
 
@@ -95,7 +95,7 @@ int main() {
 }
 
 /*
-Test Input : 
+Test Input :
 3
 
 3 3
@@ -117,4 +117,4 @@ Test Output : 1
 1 1
 2 2
 
-*/ 
+*/

@@ -27,7 +27,7 @@ public:
 	}
 };
 
-int main() {
+int main(int argc, const char** argv) {
 	int t;
 	cin >> t;
 
@@ -57,7 +57,7 @@ int main() {
 }
 
 /*
-Test Input : 
+Test Input :
 5
 
 6
@@ -87,4 +87,4 @@ Test Output : 1
 3
 0
 
-*/ 
+*/

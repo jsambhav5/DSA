@@ -29,14 +29,14 @@ public:
 			int mid1 = (low + high) / 2;
 			int mid2 = left - mid1;
 
-			int l1 = (mid1 > 0)     ? nums1[mid1 - 1] : INT_MIN;
-			int l2 = (mid2 > 0)     ? nums2[mid2 - 1] : INT_MIN;
-			int r1 = (mid1 < size1) ? nums1[mid1]     : INT_MAX;
-			int r2 = (mid2 < size2) ? nums2[mid2]     : INT_MAX;
+			int l1 = (mid1 > 0) ? nums1[mid1 - 1] : INT_MIN;
+			int l2 = (mid2 > 0) ? nums2[mid2 - 1] : INT_MIN;
+			int r1 = (mid1 < size1) ? nums1[mid1] : INT_MAX;
+			int r2 = (mid2 < size2) ? nums2[mid2] : INT_MAX;
 
 			if (l1 <= r2 && l2 <= r1) {
 				if (size % 2 != 0) return max(l1, l2);
-				return ((float) max(l1, l2) + min(r1, r2)) / 2;
+				return ((float)max(l1, l2) + min(r1, r2)) / 2;
 			}
 
 			if (l1 > r2) high = mid1 - 1;
@@ -46,7 +46,7 @@ public:
 	}
 };
 
-int main() {
+int main(int argc, const char** argv) {
 	int t;
 	cin >> t;
 
@@ -78,7 +78,7 @@ int main() {
 }
 
 /*
-Test Input : 
+Test Input :
 3
 
 3 3
@@ -98,4 +98,4 @@ Test Output : 1
 3
 4
 
-*/ 
+*/

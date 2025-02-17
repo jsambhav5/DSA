@@ -52,13 +52,13 @@ public:
 	vector<int> searchRange(vector<int>& nums, int target) {
 		int n = nums.size();
 		int lb = lowerBound(nums, target);
-		if ( lb == n || nums[lb] != target) return {-1, -1};
+		if (lb == n || nums[lb] != target) return { -1, -1 };
 		int ub = upperBound(nums, target);
-		return {lb, ub - 1};
+		return { lb, ub - 1 };
 	}
 };
 
-int main() {
+int main(int argc, const char** argv) {
 	int t;
 	cin >> t;
 
@@ -81,10 +81,10 @@ int main() {
 
 		vector<int> ans = sol.searchRange(arr, target);
 
-		for(auto i : ans) {
+		for (auto i : ans) {
 			cout << i << " ";
 		}
-			
+
 		cout << endl;
 	}
 
@@ -92,7 +92,7 @@ int main() {
 }
 
 /*
-Test Input : 
+Test Input :
 4
 
 6
@@ -116,4 +116,4 @@ Test Output : 1
 -̄1 -1
 0 0
 
-*/ 
+*/

@@ -13,7 +13,7 @@ using namespace std;
 
 class Solution {
 private:
-	void merge (vector<int>& nums, int low, int mid, int high) {
+	void merge(vector<int>& nums, int low, int mid, int high) {
 		vector<int> temp;
 		int left = 0;
 		int right = mid + 1;
@@ -22,16 +22,17 @@ private:
 		while (left <= mid && right <= n - 1) {
 			if (nums[left] <= nums[right]) {
 				temp.push_back(nums[left++]);
-			} else {
+			}
+			else {
 				temp.push_back(nums[right++]);
 			}
 		}
 
-		while(left <= mid) {
+		while (left <= mid) {
 			temp.push_back(nums[left++]);
 		}
 
-		while(right <= n - 1) {
+		while (right <= n - 1) {
 			temp.push_back(nums[right++]);
 		}
 	}
@@ -59,7 +60,7 @@ public:
 	}
 };
 
-int main() {
+int main(int argc, const char** argv) {
 	int t;
 	cin >> t;
 

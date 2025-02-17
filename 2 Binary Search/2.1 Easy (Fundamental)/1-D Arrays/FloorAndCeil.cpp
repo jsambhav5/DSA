@@ -57,7 +57,7 @@ public:
 	}
 };
 
-int main() {
+int main(int argc, const char** argv) {
 	int t;
 	cin >> t;
 
@@ -80,10 +80,10 @@ int main() {
 
 		vector<int> ans = sol.getFloorAndCeil(arr, x);
 
-		for(auto i : ans) {
+		for (auto i : ans) {
 			cout << i << " ";
 		}
-			
+
 		cout << endl;
 	}
 
@@ -91,7 +91,7 @@ int main() {
 }
 
 /*
-Test Input : 
+Test Input :
 3
 
 6
@@ -111,4 +111,4 @@ Test Output : 1
 8 8
 10 -1
 
-*/ 
+*/

@@ -17,9 +17,9 @@ private:
 	bool possible(vector<int>& nums, int k, int mid) {
 		long long sum = 0;
 		int parts = 1;
-		for(int i : nums) {
+		for (int i : nums) {
 			sum += i;
-			if(sum > mid) {
+			if (sum > mid) {
 				parts++;
 				sum = i;
 			}
@@ -32,19 +32,20 @@ public:
 		int low = *max_element(nums.begin(), nums.end());
 		int high = accumulate(nums.begin(), nums.end(), 0);
 		int res = -1;
-		
-		while(low <= high) {
+
+		while (low <= high) {
 			int mid = (low + high) / 2;
-			if(possible(nums, k, mid)) {
+			if (possible(nums, k, mid)) {
 				res = mid;
 				high = mid - 1;
-			} else low = mid + 1;
+			}
+			else low = mid + 1;
 		}
 		return res;
 	}
 };
 
-int main() {
+int main(int argc, const char** argv) {
 	int t;
 	cin >> t;
 
@@ -72,7 +73,7 @@ int main() {
 }
 
 /*
-Test Input : 
+Test Input :
 4
 
 5
@@ -97,4 +98,4 @@ Test Output : 1
 6
 5
 
-*/ 
+*/

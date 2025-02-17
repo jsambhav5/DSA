@@ -41,7 +41,7 @@ public:
 	}
 };
 
-int main() {
+int main(int argc, const char** argv) {
 	int t;
 	cin >> t;
 
@@ -52,7 +52,7 @@ int main() {
 		Solution sol;
 
 		int ans = sol.NthRoot(N, M);
-			
+
 		cout << ans << endl;
 	}
 
@@ -60,7 +60,7 @@ int main() {
 }
 
 /*
-Test Input : 
+Test Input :
 3
 3 27
 4 69
@@ -71,4 +71,4 @@ Test Output : 1
 -1
 3
 
-*/ 
+*/
