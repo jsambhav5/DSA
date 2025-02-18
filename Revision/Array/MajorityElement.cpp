@@ -17,16 +17,12 @@ using namespace std;
 class Solution {
 public:
 	int majorityElement(vector<int>& nums) {
-		int count = 0, candidate;
+		int count = 0, element;
 		for (int i : nums) {
-			if (count == 0)
-				candidate = i;
-			if (i == candidate)
-				count++;
-			else
-				count--;
+			if (!count) element = i;
+			count = (i == element) ? count + 1 : count - 1;
 		}
-		return candidate;
+		return element;
 	}
 };
 
