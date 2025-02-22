@@ -2,7 +2,7 @@
 // TUF+ : Binary Search (https://takeuforward.org/plus/dsa/binary-search/fundamentals/search-x-in-sorted-array)
 
 /*
-Topics and Learnings: Binary Search
+Topics and Learnings: Binary Search 
 
 Approach:
 Used Binary Search to solve this
