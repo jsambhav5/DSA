@@ -2,7 +2,7 @@
 // TUF+ : Search in rotated sorted array-I (https://takeuforward.org/plus/dsa/binary-search/logic-building/search-in-rotated-sorted-array-i)
 
 /*
-Topics and Learnings: Binary Search
+Topics and Learnings: Binary Search 
 
 Approach:
 if (low < mid) => left half is sorted
