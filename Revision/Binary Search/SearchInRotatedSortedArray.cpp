@@ -2,7 +2,7 @@
 // TUF+ : Search in rotated sorted array-I (https://takeuforward.org/plus/dsa/binary-search/logic-building/search-in-rotated-sorted-array-i)
 
 /*
-Topics and Learnings: Binary Search 
+Topics and Learnings: Binary Search
 
 Approach:
 if (low < mid) => left half is sorted
@@ -11,6 +11,7 @@ else right half is sorted
 if number is present in sorted half => eleminate unsorted
 else => eleminate sorted
 
+Complexiy Analysis:
 TC: O(logN)
 SC: O(1)
 */

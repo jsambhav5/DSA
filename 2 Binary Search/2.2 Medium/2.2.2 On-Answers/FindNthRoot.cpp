@@ -4,6 +4,7 @@
 Approach:
 Used Bianry search to solve this problem with range from 1 to N
 
+Complexiy Analysis:
 TC: O(logM)
 SC: O(1)
 */

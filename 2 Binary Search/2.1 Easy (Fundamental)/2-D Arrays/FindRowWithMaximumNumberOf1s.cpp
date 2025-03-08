@@ -4,6 +4,7 @@
 Approach:
 Used Binary Search to count number of 1s in rach row
 
+Complexiy Analysis:
 TC: O(N*logM)
 SC: O(1)
 */

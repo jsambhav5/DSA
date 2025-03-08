@@ -4,6 +4,7 @@
 Approach:
 Selection sort is a simple sorting algorithm. This sorting algorithm is an in-place comparison-based algorithm in which the list is divided into two parts, the sorted part at the left end and the unsorted part at the right end. Initially, the sorted part is empty and the unsorted part is the entire list.
 
+Complexiy Analysis:
 TC: O(N^2)
 SC: O(1)
 */

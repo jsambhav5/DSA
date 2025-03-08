@@ -4,6 +4,7 @@
 Approach:
 Insertion Sort is a simple sorting algorithm that works the way we sort playing cards in our hands.
 
+Complexiy Analysis:
 TC: O(N^2)
 SC: O(1)
 */

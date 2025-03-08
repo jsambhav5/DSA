@@ -1,13 +1,16 @@
-// LeetCode : 74 - Search a 2D Matrix II (https://leetcode.com/problems/search-a-2d-matrix-ii/description/)
-// TUF+ : Search in 2D matrix - II (https://takeuforward.org/plus/data-structures-and-algorithm/binary-search/2d-arrays/search-in-2d-matrix-ii)
+// LeetCode : 240 - Search a 2D Matrix II (https://leetcode.com/problems/search-a-2d-matrix-ii/description/)
+// TUF+ : Search in 2D matrix - II (https://takeuforward.org/plus/dsa/binary-search/2d-arrays/search-in-2d-matrix-ii)
 
 /*
+Topics and Learnings: Binary Search
+
 Approach:
 Started with the upper right corner
 if element == target, return true
 if element > target, col--
 else row++
 
+Complexiy Analysis:
 TC: O(m + n))
 SC: O(1)
 */
