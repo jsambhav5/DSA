@@ -1,6 +1,8 @@
 // TUF+ : Intersection of two sorted arrays (https://takeuforward.org/plus/data-structures-and-algorithm/arrays/logic-building/intersection-of-two-sorted-arrays)
 
 /*
+Topics and Learnings:
+
 Approach:
 Used Linear Traversal to solve this.
 Similar to merging of two sorted array with additional conditions

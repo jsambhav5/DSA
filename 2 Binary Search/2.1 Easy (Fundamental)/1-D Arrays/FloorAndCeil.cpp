@@ -1,6 +1,8 @@
 // TUF+ : Floor and Ceil in Sorted Array (https://takeuforward.org/plus/data-structures-and-algorithm/binary-search/logic-building/floor-and-ceil-in-sorted-array)
 
 /*
+Topics and Learnings:
+
 Approach:
 Used Binary Search to solve this
 

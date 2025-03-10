@@ -1,6 +1,8 @@
 // TUF+ : Find Nth root of a number (https://takeuforward.org/plus/data-structures-and-algorithm/binary-search/on-answers/find-nth-root-of-a-number)
 
 /*
+Topics and Learnings:
+
 Approach:
 Used Bianry search to solve this problem with range from 1 to N
 

@@ -1,6 +1,8 @@
 // TUF+ : https://takeuforward.org/plus/data-structures-and-algorithm/sorting/algorithms/bubble-sort
 
 /*
+Topics and Learnings:
+
 Approach:
 Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
 

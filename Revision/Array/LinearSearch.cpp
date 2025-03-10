@@ -1,6 +1,8 @@
 // TUF+ : https://takeuforward.org/plus/data-structures-and-algorithm/arrays/fundamentals/linear-search
 
 /*
+Topics and Learnings:
+
 Approach:
 Linear Search
 

@@ -1,6 +1,8 @@
 // TUF+ : https://takeuforward.org/plus/data-structures-and-algorithm/sorting/algorithms/insertion-sorting
 
 /*
+Topics and Learnings:
+
 Approach:
 Insertion Sort is a simple sorting algorithm that works the way we sort playing cards in our hands.
 

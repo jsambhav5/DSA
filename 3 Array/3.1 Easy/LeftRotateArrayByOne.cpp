@@ -1,6 +1,8 @@
 // TUF+ : Left Rotate Array by One (https://takeuforward.org/plus/data-structures-and-algorithm/arrays/fundamentals/left-rotate-array-by-one)
 
 /*
+Topics and Learnings:
+
 Approach:
 Used Linear Traversal to solve this
 

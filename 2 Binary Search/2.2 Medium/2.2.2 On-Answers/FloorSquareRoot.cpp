@@ -1,6 +1,8 @@
 // TUF+ : Find square root of a number (https://takeuforward.org/plus/data-structures-and-algorithm/binary-search/on-answers/find-square-root-of-a-number)
 
 /*
+Topics and Learnings:
+
 Approach:
 if mid*mid < number, eliminate left
 else eleminate right

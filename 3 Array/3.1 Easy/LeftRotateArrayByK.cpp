@@ -1,6 +1,8 @@
 // TUF+ : Left Rotate Array by K Places (https://takeuforward.org/plus/dsa/arrays/fundamentals/left-rotate-array)
 
 /*
+Topics and Learnings:
+
 Approach:
 a) Reverse first k elements
 b) Reverse remaining elements

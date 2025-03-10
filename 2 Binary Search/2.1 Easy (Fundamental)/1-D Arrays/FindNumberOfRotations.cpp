@@ -1,6 +1,8 @@
 // TUF+ : Find out how many times the array is rotated (https://takeuforward.org/plus/data-structures-and-algorithm/binary-search/logic-building/find-out-how-many-times-the-array-is-rotated)
 
 /*
+Topics and Learnings:
+
 Approach:
 same as minimum in rotated sorted array
 return index of minimum instead of minimum  number itself
