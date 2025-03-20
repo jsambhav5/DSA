@@ -1,4 +1,4 @@
-// LeetCode : 439 - Reverse Pairs (https://leetcode.com/problems/reverse-pairs)
+// LeetCode : 493 - Reverse Pairs (https://leetcode.com/problems/reverse-pairs)
 // TUF+ : Reverse Pairs (https://takeuforward.org/plus/dsa/arrays/faqs-hard/reverse-pairs)
 
 /*
