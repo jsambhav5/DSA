@@ -39,7 +39,6 @@ private:
 		}
 
 		swap(nums[low], nums[j]);
-
 		return j;
 	}
 
