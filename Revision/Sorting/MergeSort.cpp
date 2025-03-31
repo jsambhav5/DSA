@@ -80,7 +80,6 @@ int main(int argc, const char** argv) {
 		}
 
 		Solution sol;
-
 		vector<int> res = sol.mergeSort(arr);
 
 		for (auto i : res) {
