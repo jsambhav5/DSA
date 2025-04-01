@@ -1,7 +1,7 @@
 // TUF+ : https://takeuforward.org/plus/data-structures-and-algorithm/sorting/algorithms/selection-sort
 
 /*
-Topics and Learnings:
+Topics and Learnings: Selection Sort
 
 Approach:
 Selection sort is a simple sorting algorithm. This sorting algorithm is an in-place comparison-based algorithm in which the list is divided into two parts, the sorted part at the left end and the unsorted part at the right end. Initially, the sorted part is empty and the unsorted part is the entire list.
@@ -62,7 +62,6 @@ int main(int argc, const char** argv) {
 
 		cout << endl;
 	}
-
 	return 0;
 }
 
