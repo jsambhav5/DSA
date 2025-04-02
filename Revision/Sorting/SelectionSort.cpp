@@ -53,7 +53,6 @@ int main(int argc, const char** argv) {
 		}
 
 		Solution sol;
-
 		vector<int> res = sol.selectionSort(arr);
 
 		for (auto i : res) {
