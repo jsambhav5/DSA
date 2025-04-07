@@ -6,7 +6,7 @@ Topics and Learnings:
 Approach:
 Merge Sort is a Divide and Conquer algorithm. It divides input array in two halves, calls itself for the two halves and then merges the two sorted halves.
 
-Complexiy Analysis:
+Complexity Analysis:
 TC: O(N * logN)
 SC: O(1)
 */

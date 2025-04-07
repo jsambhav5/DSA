@@ -6,7 +6,7 @@ Topics and Learnings:
 Approach:
 Linear Search
 
-Complexiy Analysis:
+Complexity Analysis:
 TC: O(N)
 SC: O(1)
 */

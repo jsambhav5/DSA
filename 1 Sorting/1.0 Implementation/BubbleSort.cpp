@@ -6,7 +6,7 @@ Topics and Learnings:
 Approach:
 Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
 
-Complexiy Analysis:
+Complexity Analysis:
 TC: O(N^2)
 SC: O(1)
 */

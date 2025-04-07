@@ -7,7 +7,7 @@ Topics and Learnings: Recursion
 Approach:
 Used Recursion to solve this
 
-Complexiy Analysis:
+Complexity Analysis:
 TC: O(logN)
 SC: O(logN)
 */

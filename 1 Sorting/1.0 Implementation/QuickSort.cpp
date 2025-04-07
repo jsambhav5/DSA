@@ -6,7 +6,7 @@ Topics and Learnings: Quick Sort
 Approach:
 Quick Sort
 
-Complexiy Analysis:
+Complexity Analysis:
 TC: O(N*LogN)
 SC: O(N)
 */

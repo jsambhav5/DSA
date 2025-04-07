@@ -6,7 +6,7 @@ Topics and Learnings: Binary Search, 2-D Array
 Approach:
 Used Binary Search to solve this
 
-Complexiy Analysis:
+Complexity Analysis:
 TC: O(M*log(N))
 SC: O(1)
 */

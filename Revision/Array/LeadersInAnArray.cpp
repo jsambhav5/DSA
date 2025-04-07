@@ -7,7 +7,7 @@ Topics and Learnings:
 Approach:
 Used Linear Traversal from end of the array to front
 
-Complexiy Analysis:
+Complexity Analysis:
 TC: O(N)
 SC: O(1)
 */

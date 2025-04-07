@@ -7,7 +7,7 @@ Approach:
 if mid*mid < number, eliminate left
 else eleminate right
 
-Complexiy Analysis:
+Complexity Analysis:
 TC: O(log(N))
 SC: O(1)
 */

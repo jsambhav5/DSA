@@ -6,7 +6,7 @@ Topics and Learnings: Bianry Search
 Approach:
 Used Bianry search to solve this problem with range from 1 to N
 
-Complexiy Analysis:
+Complexity Analysis:
 TC: O(logM)
 SC: O(1)
 */

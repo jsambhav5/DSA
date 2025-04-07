@@ -7,7 +7,7 @@ Approach:
 Used Linear Traversal to solve this.
 Similar to merging of two sorted array with additional conditions
 
-Complexiy Analysis:
+Complexity Analysis:
 TC: O(N1 + N2)
 SC: O(N1 + N2)
 */

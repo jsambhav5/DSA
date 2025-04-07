@@ -6,7 +6,7 @@ Topics and Learnings: Binary Search
 Approach:
 Used Binary Search to solve this
 
-Complexiy Analysis:
+Complexity Analysis:
 TC: O(log(min(M, N)))
 SC: O(1)
 */

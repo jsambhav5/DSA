@@ -6,7 +6,7 @@ Topics and Learnings:
 Approach:
 Used Linear Search to solve this
 
-Complexiy Analysis:
+Complexity Analysis:
 TC: O(N)
 SC: O(1)
 */
