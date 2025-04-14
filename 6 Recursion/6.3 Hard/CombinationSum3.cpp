@@ -1,5 +1,5 @@
 // LeetCode : 40 - Combination Sum III (https://leetcode.com/problems/combination-sum-iii/)
-// TUF+ : Combination Sum II (https://takeuforward.org/plus/dsa/problems/combination-sum-iii)
+// TUF+ : Combination Sum III (https://takeuforward.org/plus/dsa/problems/combination-sum-iii)
 
 /*
 Topics and Learnings: Recursion
