@@ -1,4 +1,4 @@
-// TUF+ : Insertion at the head of LL (https://takeuforward.org/plus/dsa/linked-list/fundamentals-single-ll/insertion-at-the-head-of-ll)
+// TUF+ : Insertion at the Kth position of LL (https://takeuforward.org/plus/dsa/linked-list/fundamentals-single-ll/insertion-at-the-kth-position-of-ll)
 
 /*
 Topics and Learnings: Linked List, Pointer
@@ -36,8 +36,17 @@ struct Node {
 
 class LinkedList {
 public:
-	void insertAtHead(Node*& head, int X) {
-		head = new Node(X, head);
+	void insertAtKthPosition(Node*& head, int data, int pos) {
+		if (pos == 1) {
+			head = new Node(data, head);
+			return;
+		}
+		Node* newNode = new Node(data);
+		Node* itr = head;
+		for (int i = 0; i < pos - 2; i++)
+			itr = itr->next;
+		newNode->next = itr->next;
+		itr->next = newNode;
 	}
 
 	void printList(Node* head) {
@@ -66,8 +75,8 @@ int main(int argc, const char** argv) {
 	cin >> t;
 
 	while (t--) {
-		int n, data;
-		cin >> n >> data;
+		int n, data, pos;
+		cin >> n >> data >> pos;
 
 		vector<int> arr;
 		for (int i = 0; i < n; i++) {
@@ -79,7 +88,7 @@ int main(int argc, const char** argv) {
 		LinkedList ll;
 		Node* head = ll.arrToLL(arr);
 
-		ll.insertAtHead(head, data);
+		ll.insertAtKthPosition(head, data, pos);
 		ll.printList(head);
 	}
 
@@ -90,18 +99,18 @@ int main(int argc, const char** argv) {
 Test Input :
 3
 
-4 0
+4 0 2
 1 2 3 4
 
-3 5
+3 5 2
 2 3 4
 
-5 7
+5 7 1
 1 2 3 4 8
 
 Test Output : 1
-0 -> 1 -> 2 -> 3 -> 4 -> NULL
-5 -> 2 -> 3 -> 4 -> NULL
+1 -> 0 -> 2 -> 3 -> 4 -> NULL
+2 -> 5 -> 3 -> 4 -> NULL
 7 -> 1 -> 2 -> 3 -> 4 -> 8 -> NULL
 
 */
