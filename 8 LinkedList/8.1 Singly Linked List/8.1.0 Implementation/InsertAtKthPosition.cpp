@@ -7,7 +7,7 @@ Approach:
 Used pointers to solve this
 
 Complexity Analysis:
-TC: O(1)
+TC: O(K)
 SC: O(1)
 */
 
