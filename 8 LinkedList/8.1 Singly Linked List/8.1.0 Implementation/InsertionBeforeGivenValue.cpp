@@ -1,4 +1,4 @@
-// TUF+ : Insertion at the Kth position of LL (https://takeuforward.org/plus/dsa/linked-list/fundamentals-single-ll/insertion-at-the-kth-position-of-ll)
+// TUF+ : Insertion before the value X in LL (https://takeuforward.org/plus/dsa/linked-list/fundamentals-single-ll/insertion-before-the-value-x-in-ll)
 
 /*
 Topics and Learnings: Linked List, Pointer
@@ -7,7 +7,7 @@ Approach:
 Used pointers to solve this
 
 Complexity Analysis:
-TC: O(K)
+TC: O(N)
 SC: O(1)
 */
 
@@ -36,14 +36,15 @@ struct Node {
 
 class LinkedList {
 public:
-	void insertAtKthPosition(Node*& head, int data, int pos) {
-		if (pos == 1) {
+	void insertBeforeValue(Node*& head, int data, int value) {
+		if (head->data == value){
 			head = new Node(data, head);
 			return;
 		}
 		Node* itr = head;
-		for (int i = 0; i < pos - 2; i++)
+		while (itr->next && itr->next->data != value)
 			itr = itr->next;
+		if (itr->next == NULL) return;
 		itr->next = new Node(data, itr->next);
 	}
 
@@ -73,8 +74,8 @@ int main(int argc, const char** argv) {
 	cin >> t;
 
 	while (t--) {
-		int n, data, pos;
-		cin >> n >> data >> pos;
+		int n, data, value;
+		cin >> n >> data >> value;
 
 		vector<int> arr;
 		for (int i = 0; i < n; i++) {
@@ -86,7 +87,7 @@ int main(int argc, const char** argv) {
 		LinkedList ll;
 		Node* head = ll.arrToLL(arr);
 
-		ll.insertAtKthPosition(head, data, pos);
+		ll.insertBeforeValue(head, data, value);
 		ll.printList(head);
 	}
 
@@ -95,20 +96,24 @@ int main(int argc, const char** argv) {
 
 /*
 Test Input :
-3
+4
 
-4 0 2
+4 0 3
 1 2 3 4
 
-3 5 2
+3 5 4
 2 3 4
 
-5 7 1
+5 7 4
 1 2 3 4 8
 
-Test Output : 1
-1 -> 0 -> 2 -> 3 -> 4 -> NULL
-2 -> 5 -> 3 -> 4 -> NULL
-7 -> 1 -> 2 -> 3 -> 4 -> 8 -> NULL
+3 5 7
+1 2 3
+
+Test Output :
+1 -> 2 -> 0 -> 3 -> 4 -> NULL
+2 -> 3 -> 5 -> 4 -> NULL
+1 -> 2 -> 3 -> 7 -> 4 -> 8 -> NULL
+1 -> 2 -> 3 -> NULL
 
 */
