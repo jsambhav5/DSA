@@ -68,11 +68,11 @@ int main(int argc, const char** argv) {
 			arr.push_back(input);
 		}
 
-		DoublyLinkedList ll;
-		Node* head = ll.arrToLL(arr);
+		DoublyLinkedList dll;
+		Node* head = dll.arrToLL(arr);
 
-		ll.insertAtHead(head, data, pos);
-		ll.printList(head);
+		dll.insertAtHead(head, data, pos);
+		dll.printList(head);
 	}
 
 	return 0;
