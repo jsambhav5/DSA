@@ -14,7 +14,7 @@ struct ListNode
 		val = data1;
 		next = next1;
 	}
-};
+}; 
 */
 
 class Solution {
