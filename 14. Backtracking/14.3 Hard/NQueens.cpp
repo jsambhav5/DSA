@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool safe(vector<string>& board, int row, int col) {
-        int r = row, c = col;
+        int r = row, c = col; 
 
         while (r >= 0 && c >= 0) {
             if (board[r][c] == 'Q') return false;
