@@ -15,7 +15,7 @@ public:
                 peak += 1; 
                 sum += peak; 
                 i++; 
-            }
+            } 
 
             int down = 1; 
 
