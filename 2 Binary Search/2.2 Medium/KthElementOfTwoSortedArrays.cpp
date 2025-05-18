@@ -1,4 +1,4 @@
-// TUF+ : Kth element of 2 sorted arrays https://takeuforward.org/plus/dsa/binary-search/faqs/kth-element-of-2-sorted-arrays)
+// TUF+ : Kth element of 2 sorted arrays https://takeuforward.org/plus/dsa/binary-search/faqs/kth-element-of-2-sorted-arrays) 
 
 /*
 Topics and Learnings: Binary Search
