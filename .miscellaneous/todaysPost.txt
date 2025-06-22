@@ -1,0 +1,18 @@
+#Day261 of #200DaysOfDSA
+
+Topics and Learnings: #LinkedList
+
+Problems Revised:
+85. #LeetCode #160 : Intersection of Two Linked Lists
+
+Approach:
+Used difference in length of given linked-lists to solve this
+
+Complexity Analysis:
+TC: O(2 x max(length of list1, length of list2))
+SC: O(1)
+
+#300DaysLeetCodeChallenge #300DaysLeetCode
+#DataStructures #Algorithms #ProblemSolving #DSA
+#LeetCode #TakeUForward #TUF+
+#SoftwareDevelopment #ContinuousLearning #ProfessionalGrowth #Coding

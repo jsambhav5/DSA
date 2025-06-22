@@ -1,0 +1,828 @@
+Pending:
+	1. LeetCode 493,  TUF+ : Reverse Pairs
+
+Done:
+	1.
+
+Solved:
+	Day - 1:
+	1.   LeetCode 1752 : Check if Array is Sorted and Rotated
+
+	Day - 2:
+	2.   LeetCode 268  : Missing Number in an Array
+	3.   LeetCode 283  : Move Zeroes to the End of an Array
+
+	Day - 3:
+	4.   LeetCode 75   : Sort Colors
+
+	Day - 4:
+	5.   LeetCode 136  : Single Number
+	6.   LeetCode 26   : Remove Duplicates from Sorted Array
+
+	Day - 5:
+	7.   LeetCode 189  : Rotate Array
+	8.   LeetCode 485  : Max Consecutive Ones
+	9.   LeetCode 125  : Valid Palindrome
+
+	Day - 6:
+	10.  LeetCode 344  : Reverse String
+	11.  LeetCode 507  : Perfect Number
+	12.  LeetCode 242  : Valid Anagram
+	13.  LeetCode 1903 : Largest Odd Number in String
+	14.  LeetCode 205  : Isomorphic Strings
+	15.  LeetCode 14   : Longest Common Prefix
+
+	Day - 7:
+	16.  LeetCode 796  : Rotate String
+	17.  LeetCode 451  : Sort Characters By Frequency
+
+	Day - 8:
+	18.  LeetCode 1021 : Remove Outermost Parentheses
+
+	Day - 9:
+	19.  LeetCode 21   : Merge Two Sorted Lists
+
+	Day - 10:
+	20.  LeetCode 7    : Reverse Integer
+
+	Day - 11:
+	21.  LeetCode 169  : Majority Element
+	22.  LeetCode 1523 : Count Odd Numbers in an Interval Range
+
+	Day - 12:
+	23.  TUF+          : Leaders in an Array
+	24.  LeetCode 54   : Spiral Matrix
+
+	Day - 13:
+	25.  LeetCode 121  : Best Time to Buy and Sell Stock
+	26.  LeetCode 1    : Two Sum
+	27.  LeetCode 2149 : Rearrange Array Elements by Sign
+	28.  TUF+          : Union of two sorted arrays
+	29.  TUF+          : Intersection of two sorted arrays
+	30.  LeetCode 53   : Maximum Subarray
+
+	Day - 14:
+	31.  LeetCode 231  : Power of Two
+	32.  LeetCode 2220 : Minimum Bit Flips to Convert Number
+
+	Day - 15:
+	33.  LeetCode 15   : 3-Sum
+
+	Day - 16:
+	34.  LeetCode 48   : Rotate Image
+
+	Day - 17:
+	35.  LeetCode 229  : Majority Elements II
+
+	Day - 18:
+	36.  LeetCode 128  : Longest Consecutive Sequence
+
+	Day - 19:
+	37.  TUF+          : Find Repeating and Missing Number
+	38.  LeetCode 18   : 4-Sum
+
+	Day - 20:
+	39.  LeetCode 152  : Maximum Product Subarray
+
+	Day - 21:
+	40*:  LeetCode 493 : Reverse Pairs
+
+	Day - 22:
+	41.  LeetCode 704  : Binary Search
+	42.  TUF+          : Lower Bound
+	43.  TUF+          : Upper Bound
+
+	Day - 23:
+	44.  LeetCode 35   : Search Insert Position
+
+	Day - 24:
+	45.  LeetCode 34   : Find First and Last Position of Element in Sorted Array
+
+	Day - 25:
+	46.  LeetCode 162  : Find Peak Element
+	47.  LeetCode 540  : Single Element in Sorted Array
+
+	Day - 26:
+	48.  TUF+          : Find square root of a number
+	49.  LeetCode 33   : Search in Rotated Sorted Array
+
+	Day - 27:
+	50.  LeetCode 81   : Search in Rotated Sorted Array II
+	51.  LeetCode 153  : Find Minimum in Rotated Sorted Array
+	52.  TUF+          : Find Number of Rotaions in Rotated Sorted Array
+
+	Day - 28:
+	53.  LeetCode 1283 : Find the Smallest Divisor Given a Threshold
+
+	Day - 29:
+	54.  LeetCode 875  : Koko Eating Bananas
+
+	Day - 30:
+	55.  LeetCode 1482 : Minimum Number of Days to Make m Bouquets
+
+	Day - 31:
+	56.  TUF+          : Floor and Ceil in Sorted Array
+	57.  TUF+          : Find Nth root of a number
+	58.  LeetCode 410  : Split Array Largest Sum
+
+	Day - 32:
+	59.  LeetCode 74   : Search a 2D Matrix
+	60.  LeetCode 4    : Median of Two Sorted Arrays
+
+	Day - 33:
+	61.  TUF+          : Find row with maximum 1's
+	62.  LeetCode 240  : Search a 2D Matrix II
+	63.  LeetCode 1901 : Find a Peak Element II
+
+	Day - 34:
+	64.  LeetCode 151  : Reverse Each Word in a String
+
+	Day - 35:
+	65.  TUF+          : Deletion of the Head of LL
+	66.  LeetCode 237  : Delete Node In A LinkedList
+
+	Day - 36:
+	67.  TUF+          : Deletion of the Tail of LL
+	68.  LeetCode 876  : Middle of the Linked List
+
+	Day - 37:
+	69.  LeetCode 100  : Same Tree
+
+	Day - 38:
+	70.  LeetCode 17   : Letter Combinations of a Phone Number
+
+	Day - 39:
+	71.  LeetCode 102  : Binary Tree Level Order Traversal
+
+	Day - 40:
+	72.  LeetCode 206  : Reverse Linked List
+
+	Day - 41:
+	73.  LeetCode 141  : Linked List Cycle
+
+	Day - 42:
+	74.  LeetCode 142  : Linked List Cycle 2
+
+	Day - 43:
+	75.  LeetCode 19   : Remove Nth Node From End of List
+
+	Day - 44:
+	76.  LeetCode 2095 : Delete the Middle Node of a Linked List
+
+	Day - 45:
+	77.  LeetCode 160  : Intersection of Two Linked Lists
+
+	Day - 46:
+	78.  LeetCode 61   : Roate List
+
+	Day - 47:
+	79.  LeetCode 42   : Trapping Rain Water
+
+	Day - 48:
+	80.  LeetCode 735  : Asteroid Collision
+
+	Day - 49:
+	81.  LeetCode 455  : Assign Cookies
+
+	Day - 50:
+	82.  LeetCode 860  : Lemonade Change
+
+	Day - 51:
+	83.  LeetCode 55   : Jump Game
+
+	Day - 52:
+	84.  LeetCode 435  : Non-overlapping Intervals
+
+	Day - 53:
+	85.  LeetCode 135  : CANDY
+
+	Day - 54:
+	86.  LeetCode 547  : Number of Provinces
+
+	Day - 55:
+	87.  LeetCode 207  : Course Schedule
+
+	Day - 56:
+	88.  LeetCode 103  : Binary Tree Zigzag Level Order Traversal
+
+	Day - 57:
+	89.  LeetCode 733  : Flood Fill
+
+	Day - 58:
+	90.  LeetCode 662  : Maximum Width of Binary Tree
+
+	Day - 59:
+	91.  LeetCode 222  : Count Complete Tree Nodes
+
+	Day - 60:
+	92.  LeetCode 148  : Sort List
+
+	Day - 61:
+	93.  LeetCode 198  : House Robber
+
+	Day - 62:
+	94.  LeetCode 127  : Word Ladder
+
+	Day - 63:
+	95.  LeetCode 213  : House Robber II
+
+	Day - 64:
+	96.  LeetCode 126  : Word Ladder II
+
+	Day - 65:
+	97.  LeetCode 62   : Unique Paths
+
+	Day - 66:
+	98.  LeetCode 98   : Validate Binary Search Tree
+
+	Day - 67:
+	99.  LeetCode 494  : Target Sum
+
+	Day - 68:
+	100. LeetCode 120  : Triangle
+
+	Day - 69:
+	101. LeetCode 1319 : Number of Operations to Make Network Connected
+
+	Day - 70:
+	102. LeetCode 827  : Making A Large Island
+
+	Day - 71:
+	103. LeetCode 721  : Accounts Merge
+
+	Day - 72:
+	104. LeetCode 208  : Implement Trie (Prefix Tree)
+
+	Day - 73:
+	105. LeetCode 785  : Is Graph Bipartite?
+
+	Day - 74:
+	106. LeetCode 460  : LFU Cache
+
+	Day - 75:
+	107. LeetCode 312  : Burst Balloons
+
+	Day - 76:
+	108. LeetCode 1192 : Critical Connections in a Network
+
+	Day - 77:
+	109. LeetCode 421  : Maximum XOR of Two Numbers in an Array
+
+	Day - 78:
+	110. LeetCode 101  : Symmetric Tree
+
+	Day - 79:
+	111. LeetCode 199  : Binary Tree Right Side View
+
+	Day - 80:
+	112. LeetCode 132  : Palindrome Partitioning II
+
+	Day - 81:
+	113. LeetCode 131  : Palindrome Partitioning
+
+	Day - 82:
+	114. LeetCode 236  : Lowest Common Ancestor of a Binary Tree
+
+	Day - 83:
+	115. LeetCode 38   : Count and Say
+
+	Day - 84:
+	116. LeetCode 1707 : Maximum XOR With an Element From Array
+
+	Day - 85:
+	117. LeetCode 1631 : Path With Minimum Effort
+
+	Day - 86:
+	118. LeetCode 25   : Reverse Nodes in k-Group
+
+	Day - 87:
+	119. LeetCode 518  : Coin Change II
+
+	Day - 88:
+	120. LeetCode 122  : Best Time to Buy and Sell Stock II
+
+	Day - 89:
+	121. LeetCode 123  : Best Time to Buy and Sell Stock III
+
+	Day - 90:
+	122. LeetCode 188  : Best Time to Buy and Sell Stock IV
+
+	Day - 91:
+	123. LeetCode 714  : Best Time to Buy and Sell Stock with Transaction Fee
+
+	Day - 92:
+	124. LeetCode 115  : Distinct Subsequences
+
+	Day - 93:
+	125. LeetCode 72   : Edit Distance
+
+	Day - 94:
+	126. LeetCode 70   : Climbing Stairs
+
+	Day - 95:
+	127. LeetCode 1547 : Minimum Cost to Cut a Stick
+
+	Day - 96:
+	128. LeetCode 516  : Longest Palindromic Subsequence
+
+	Day - 97:
+	129. LeetCode 1143 : Longest Common Subsequence
+
+	Day - 98:
+	130. LeetCode 1312 : Minimum Insertion Steps to Make a String
+
+	Day - 99:
+	131. LeetCode 583  : Delete Operation for Two Strings
+
+	Day - 100:
+	132. LeetCode 1092 : Shortest Common Supersequence
+
+	Day - 101:
+	133. LeetCode 416  : Partition Equal Subset Sum
+
+	Day - 102:
+	134. LeetCode 322  : Coin Change
+
+	Day - 103:
+	135. LeetCode 28   : Find the Index of the First Occurrence in a String
+
+	Day - 104:
+	136. LeetCode 76   : Minimum Window Substring
+
+	Day - 105:
+	137. LeetCode 1423 : Maximum Points You Can Obtain from Cards
+
+	Day - 106:
+	138. LeetCode 1004 : Max Consecutive Ones III
+
+	Day - 107:
+	139. LeetCode 424  : Longest Repeating Character Replacement
+
+	Day - 108:
+	140. LeetCode 930  : Binary Subarrays With Sum
+
+	Day - 109:
+	141. LeetCode 1248 : Count Number of Nice Subarrays
+
+	Day - 110:
+	142. LeetCode 1358 : Number of Substrings Containing All Three
+
+	Day - 111:
+	143. TUF+          : Fruit Into Baskets
+
+	Day - 112:
+	144. LeetCode 204  : Count Primes
+
+	Day - 113:
+	145. LeetCode 51   : N-Queens
+
+	Day - 114:
+	146. LeetCode 79   : WordSearch
+
+	Day - 126:
+	147. LeetCode 1614 : Maximum Nesting Depth of the Parentheses
+
+	Day - 136:
+	148. LeetCode 118  : Pascal's Triangle
+
+	Day - 160:
+	149. TUF+          : Matrix Median
+
+	Day - 170:
+	150. TUF+          : Count Inversions
+
+	Day - 174:
+	151.                 Tiling Problem
+
+	Day - 175:
+	152. TUF+          : Merge two sorted arrays without extra space
+
+	Day - 176:
+	153. LeetCode 88   : Merge Sorted Array
+
+	Day - 183:
+	154. TUF+          : Aggressive Cows
+
+	Day - 184:
+	155. TUF+          : Book Allocation Problem
+
+	Day - 185:
+	156. LeetCode 774  : Minimize Max Distance to Gas Station
+
+	Day - 186:
+	157. TUF+          : Kth element of 2 sorted arrays
+
+	Day - 187:
+	158. LeetCode 50   : Pow(x, n)
+
+	Day - 188:
+	159. LeetCode 22   : Generate Parentheses
+
+	Day - 189:
+	160. LeetCode 78   : Subsets
+
+	Day - 190:
+	161. TUF+          : Count all subsequences with sum K
+
+	Day - 191:
+	162. TUF+          : Check if there exists a subsequences with sum K
+
+	Day - 192:
+	163. LeetCode 39   : Combination Sum
+
+	Day - 193:
+	164. LeetCode 40   : Combination Sum II
+
+	Day - 194:
+	165. LeetCode 216  : Combination Sum III
+
+	Day - 195:
+	166. TUF+          : Subsets 1
+
+	Day - 196:
+	167. LeetCode 90   : Subsets 2
+
+	Day - 197:
+	168. TUF+          : Rat in a Maze
+
+	Day - 198:
+	169. TUF+          : M Coloring Problem
+
+	Day - 199:
+	170. LeetCode 37   : Sudoko Solver
+
+	Day - 201:
+	171. TUF+          : Single Number - 3
+
+	Day - 202:
+	172. TUF+          : XOR of numbers in a given range
+
+	Day - 203:
+	173. LeetCode 29   : Divide Two Integers
+
+	Day - 204:
+	174. TUF+          : Prime factorisation of a Number
+
+	Day - 205:
+	175. LeetCode 1922 : Count Good Numbers
+
+	Day - 206:
+	176. LeetCode 8    : String to Integer (atoi)
+
+	Day - 207:
+	177. LeetCode 139  : Word Break
+
+	Day - 208:
+	178. LeetCode 282  : Expression Add Operators
+
+	Day - 209:
+	179. LeetCode 1392 : Longest Happy Prefix
+
+	Day - 210:
+	180. LeetCode 214  : Shortest Palindrome
+
+	Day - 211:
+	181. TUF+          : Insertion at the head of LL
+
+	Day - 212:
+	182. TUF+          : Insertion at the Kth position of LL
+
+	Day - 213:
+	183. TUF+          : Insertion at the tail of LL
+
+	Day - 214:
+	184. TUF+          : Insertion before the value X in LL
+
+	Day - 215:
+	185. TUF+          : Insert node before head in DLL
+
+	Day - 216:
+	186. TUF+          : Delete head of DLL
+
+	Day - 217:
+	187. TUF+          : Delete the element with value X
+
+	Day - 218:
+	188. TUF+          : Deletion of the Kth element of LL
+
+	Day - 236:
+	189. TUF+          : Deletion of the tail of LL
+
+	Day - 237:
+	190. TUF+          : Convert Array to DLL
+
+	Day - 240:
+	191. TUF+          : Delete Tail of DLL
+
+	Day - 241:
+	192. TUF+          : Delete Kth Element of DLL
+
+	Day - 242:
+	193. TUF+          : Removing given node in DLL
+
+	Day - 243:
+	194. TUF+          : Insert node before (kth node) in DLL
+
+	Day - 244:
+	195. TUF+          : Insert node before tail in DLL
+
+	Day - 245:
+	196. TUF+          : Insert before given node in DLL
+
+	Day - 251:
+	197. LeetCode 2    : Reverse a LL
+
+	Day - 252:
+	198. LeetCode 2    : Sort a LL of 0's 1's and 2's
+
+	Day - 255:
+	199. LeetCode 328  : Odd Even Linked List
+
+	Day - 257
+	200. LeetCode 2    : Add Two Numbers
+
+	Day - 258
+	201. TUF+          : Add one to a number represented by LL
+
+Revised:
+	Day - 115:
+	0.   TUF+          : Sorting
+
+	Day - 116:
+	1.   TUF+          : Linear Search
+
+	Day - 117:
+	2.   LeetCode 136  : Single Number
+
+	Day - 118:
+	3.   LeetCode 283  : Move Zeroes
+
+	Day - 119:
+	4.   LeetCode 1752 : Check if Array Is Sorted and Rotated
+
+	Day - 120:
+	5.   TUF+          : Largest Element
+
+	Day - 121:
+	6.   LeetCode 485  : Max Consecutive Ones
+
+	Day - 122:
+	7.   LeetCode 189  : Rotate Array
+
+	Day - 123:
+	8.   LeetCode 268  : Missing Number
+
+	Day - 124:
+	9.   LeetCode 26   : Remove Duplicates from Sorted Array
+
+	Day - 125:
+	10.  TUF+          : Second Largest Element
+
+	Day - 127:
+	11.  TUF+          : Union of two sorted arrays
+
+	Day - 128:
+	12.  LeetCode 128  : Longest Consecutive Sequence
+
+	Day - 129:
+	13.  TUF+          : Intersection of two sorted arrays
+
+	Day - 130:
+	14.  TUF+          : Leaders in an Array
+
+	Day - 131:
+	15.  Leetcode 1    : Two Sum
+
+	Day - 132:
+	16.  Leetcode 75   : Sort Colors
+
+	Day - 133:
+	17.  Leetcode 48   : Rotate Image
+
+	Day - 134:
+	18.  Leetcode 53   : Maximum Subarray
+
+	Day - 135:
+	19.  Leetcode 121  : Best Time to Buy and Sell Stock
+
+	Day - 137:
+	20.  Leetcode 2149 : Rearrange Array Elements by Sign
+
+	Day - 138:
+	21.  Leetcode 54   : Spiral Matrix
+
+	Day - 139:
+	22.  Leetcode 169  : Majority Element
+
+	Day - 140:
+	23.  Leetcode 229  : Majority Element II
+
+	Day - 141:
+	24.  Leetcode 15   : 3Sum
+
+	Day - 142:
+	25.  Leetcode 18   : 4Sum
+
+	Day - 143:
+	26.  Leetcode 704  : Binary Search
+
+	Day - 144:
+	27.  Leetcode 35   : Search Insert Position
+
+	Day - 145:
+	28.  Leetcode 34   : Find First and Last Position of Element in Sorted Array
+
+	Day - 146:
+	29.  Leetcode 33   : Search in Rotated Sorted Array
+
+	Day - 147:
+	30.  Leetcode 81   : Search in Rotated Sorted Array II
+
+	Day - 148:
+	31.  Leetcode 153  : Find Minimum in Rotated Sorted Array
+
+	Day - 149:
+	32.  Leetcode 540  : Single Element in a Sorted Array
+
+	Day - 150:
+	33.  Leetcode 162  : Find Peak Element
+
+	Day - 151:
+	34.  Leetcode 1901 : Find a Peak Element II
+
+	Day - 152:
+	35.  Leetcode 1283 : Find the Smallest Divisor Given a Threshold
+
+	Day - 153:
+	36.  Leetcode 875  : Koko Eating Bananas
+
+	Day - 154:
+	37.  Leetcode 1482 : Minimum Number of Days to Make m Bouquets
+
+	Day - 155:
+	38.  Leetcode 410  : Split Array Largest Sum
+
+	Day - 156:
+	39.  Leetcode 74   : Search a 2D Matrix
+
+	Day - 157:
+	40.  Leetcode 240  : Search a 2D Matrix II
+
+	Day - 158:
+	41.  Leetcode 4    : Median of Two Sorted Arrays
+
+	Day - 159:
+	42.  TUF+          :  Find row with maximum 1's
+
+	Day - 161:
+	43.  TUF+          :  Lower Bound
+
+	Day - 162:
+	44.  TUF+          :  Upper Bound
+
+	Day - 163:
+	45.  TUF+          :  Floor and Ceil in Sorted Array
+
+	Day - 164:
+	46.  TUF+          :  Find out how many times the array is rotated
+
+	Day - 165:
+	47.  TUF+          :  Find square root of a number
+
+	Day - 166:
+	48.  TUF+          :  Find Nth root of a number
+
+	Day - 167:
+	49.  LeetCode 1614 : Maximum Nesting Depth of the Parentheses
+
+	Day - 168:
+	50.  LeetCode 1021 : Remove Outermost Parentheses
+
+	Day - 169:
+	51.  LeetCode 493  : Reverse Pairs
+
+	Day - 171:
+	52.  TUF+          : Find the repeating and missing number
+
+	Day - 172:
+	53.  Leetcode 152  : Maximum Product Subarray
+
+	Day - 173:
+	54.  Leetcode 70   : Climbing Stairs
+
+	Day - 177:
+	0.   TUF+          : QuickSort
+
+	Day - 178:
+	0.   TUF+          : MergeSort
+
+	Day - 179:
+	0.   TUF+          : InsertionSort
+
+	Day - 180:
+	0.   TUF+          : BubbleSort
+
+	Day - 181:
+	0.   TUF+          : SelectionSort
+
+	Day - 182:
+	0.   TUF+          : BinarySearch
+
+	Day - 200:
+	55.  TUF+          : Aggressive Cows
+
+	Day - 219:
+	56.  TUF+          : Single Number - 3
+
+	Day - 220:
+	57.  LeetCode 29   : Divide Two Integers
+
+	Day - 221:
+	58.  TUF+          : Prime factorisation of a Number
+
+	Day - 222:
+	59.  LeetCode 1922 : Count Good Numbers
+
+	Day - 223:
+	60.  LeetCode 8    : String to Integer (atoi)
+
+	Day - 224:
+	61.  LeetCode 139  : Word Break
+
+	Day - 225:
+	62.  LeetCode 282  : Expression Add Operators
+
+	Day - 226:
+	63.  LeetCode 1392 : Longest Happy Prefix
+
+	Day - 227:
+	64.  LeetCode 214  : Shortest Palindrome
+
+	Day - 228:
+	65.  TUF+          : Insertion at the head of LL
+
+	Day - 229:
+	66.  TUF+          : Insertion at the Kth position of LL
+
+	Day - 230:
+	67.  TUF+          : Insertion at the tail of LL
+
+	Day - 231:
+	68.  TUF+          : Insertion before the value X in LL
+
+	Day - 232:
+	69.  TUF+          : Insert node before head in DLL
+
+	Day - 233:
+	70.  TUF+          : Delete head of DLL
+
+	Day - 234:
+	71.  TUF+          : Delete the element with value X
+
+	Day - 235:
+	72.  TUF+          : Deletion of the Kth element of LL
+
+	Day - 238:
+	73.  TUF+          : Deletion of the tail of LL
+
+	Day - 239:
+	74.  TUF+          : Convert Array to DLL
+
+	Day - 246:
+	75.  TUF+          : Delete Kth Element of DLL
+
+	Day - 247:
+	76.  TUF+          : Removing given node in DLL
+
+	Day - 248:
+	77.  TUF+          : Insert node before (kth node) in DLL
+
+	Day - 249:
+	78.  TUF+          : Insert node before tail in DLL
+
+	Day - 250:
+	79.  TUF+          : Insert before given node in DLL
+
+	Day - 253:
+	80.  TUF+          : Reverse a LL
+
+	Day - 254:
+	81.  TUF+          : Sort a LL of 0's 1's and 2's
+
+	Day - 256:
+	82.  LeetCode 19   : Remove Nth Node From End of List
+
+	Day - 259:
+	83.  LeetCode 328  : Odd Even Linked List
+
+	Day - 260
+	84.  LeetCode 148  : Sort List
+
+	Day - 261
+	85.  LeetCode 160  : Intersection of Two Linked Lists
+
+	Day - 262
+	86. LeetCode 2    : Add Two Numbers
+
+	Day - 263
+	87. TUF+          : Add one to a number represented by LL
