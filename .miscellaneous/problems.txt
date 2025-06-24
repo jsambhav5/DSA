@@ -822,11 +822,14 @@ Revised:
 	85.  LeetCode 160  : Intersection of Two Linked Lists
 
 	Day - 262
-	86. LeetCode 2    : Add Two Numbers
+	86.  LeetCode 2    : Add Two Numbers
 
 	Day - 263
-	87. TUF+          : Add one to a number represented by LL
+	87.  TUF+          : Add one to a number represented by LL
 
         Day - 264:
 	88.  LeetCode 860  : Lemonade Change
+
+        Day - 265:
+	89.  LeetCode 42   : Trapping Rain Water
 
