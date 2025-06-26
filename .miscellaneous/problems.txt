@@ -834,7 +834,7 @@ Revised:
 	89.  LeetCode 42   : Trapping Rain Water
 
         Day - 266:
-	90.  LeetCode 198   : House Robber
+	90.  LeetCode 198  : House Robber
 
 	Day - 267:
 	91.  LeetCode 213  : House Robber II
