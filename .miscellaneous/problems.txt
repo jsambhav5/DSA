@@ -458,7 +458,7 @@ Solved:
 	172. TUF+          : XOR of numbers in a given range
 
 	Day - 203:
-	173. LeetCode 29   : Divide Two Integers
+	173. LeetCode 29   : Divide Two Integers 
 
 	Day - 204:
 	174. TUF+          : Prime factorisation of a Number
@@ -844,3 +844,6 @@ Revised:
 
 	Day - 269:
 	93.  LeetCode 126  : Word Ladder II
+
+	Day - 270:
+	94.  LeetCode 547  : Number of Provinces
