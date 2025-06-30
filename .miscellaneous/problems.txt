@@ -847,3 +847,6 @@ Revised:
 
 	Day - 270:
 	94.  LeetCode 547  : Number of Provinces
+
+	Day - 271:
+	95.  LeetCode 118  : Pascal's Triangle
