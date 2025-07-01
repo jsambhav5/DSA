@@ -1,7 +1,7 @@
-Topics and Learnings: hashtag#BFS, hashtag#Graphs
+DynamicProgramming
 
 Problems Solved: 
-86. hashtag#LeetCode #547 : Number of Provinces
-Approach: Used hashtag#BreadthFirstSearch to solve this
-TC: O(V + E)
-SC: O(V + E)
+120. hashtag#LeetCode #122 : Best Time to Buy and Sell Stock II
+Approach: Used hashtag#DynamicProgramming to solve this
+TC: O(N^2)
+SC: O(1)

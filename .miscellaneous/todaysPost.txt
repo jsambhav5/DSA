@@ -1,15 +1,15 @@
-#Day261 of #200DaysOfDSA
+#Day272 of #300DaysOfDSA
 
-Topics and Learnings: #LinkedList
+Topics and Learnings: #DynamicProgramming
 
 Problems Revised:
-85. #LeetCode #160 : Intersection of Two Linked Lists
+96. #LeetCode #122 : Best Time to Buy and Sell Stock II
 
 Approach:
-Used difference in length of given linked-lists to solve this
+Used #DynamicProgramming to solve this
 
 Complexity Analysis:
-TC: O(2 x max(length of list1, length of list2))
+TC: O(N^2)
 SC: O(1)
 
 #300DaysLeetCodeChallenge #300DaysLeetCode
