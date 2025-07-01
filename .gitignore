@@ -1,5 +1,6 @@
-# /*Miscellaneous
-# /.vscode
+.miscellaneous?*
+!miscellaneous/Problemstxt
+/.vscode
 *.code-workspace
 /Contests
 *.exe
