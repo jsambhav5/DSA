@@ -853,3 +853,6 @@ Revised:
 
 	Day - 272:
 	96.  LeetCode 122  : Best Time to Buy and Sell Stock II
+
+	Day - 273:
+	95.  LeetCode 1358 : Number of Substrings Containing All Three
