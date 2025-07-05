@@ -862,3 +862,6 @@ Revised:
 
 	Day - 275:
 	99.  LeetCode 98   : Validate Binary Search Tree
+
+	Day - 276:
+	100. LeetCode 494  : Target Sum
