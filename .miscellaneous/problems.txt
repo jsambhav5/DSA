@@ -194,7 +194,7 @@ Solved:
 	84.  LeetCode 435  : Non-overlapping Intervals
 
 	Day - 53:
-	85.  LeetCode 135  : CANDY
+	85.  LeetCode 135  : Candy
 
 	Day - 54:
 	86.  LeetCode 547  : Number of Provinces
@@ -870,4 +870,4 @@ Revised:
 	101. LeetCode 322  : Coin Change
 
 	Day - 278:
-	102. LeetCode 135  : CANDY
+	102. LeetCode 135  : Candy
