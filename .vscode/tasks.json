@@ -1,0 +1,40 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compile and Run C++",
+            "type": "shell",
+            "command": "g++ -std=c++17 -o ${fileBasenameNoExtension} '${file}' && ./${fileBasenameNoExtension} < .miscellaneous/input.txt > .miscellaneous/output.txt && rm ${fileBasenameNoExtension}",
+            "group": {
+                "kind": "build",
+                "isDefault": "**/*.cpp" 
+            }
+        },
+        {
+          "label": "Compile and Run Java",
+          "type": "shell",
+          "command": "cp '${file}' '${workspaceFolder}/${fileBasenameNoExtension}.java' && javac '${workspaceFolder}/${fileBasenameNoExtension}.java' && java ${fileBasenameNoExtension} < .miscellaneous/input.txt > .miscellaneous/output.txt && rm '${workspaceFolder}/${fileBasenameNoExtension}.class' && rm '${workspaceFolder}/${fileBasenameNoExtension}.java'",
+          "presentation": {
+            "reveal": "never"
+          },
+          "group": {
+            "kind": "build",
+            "isDefault": "**/*.java"
+          },
+          "problemMatcher": {
+            "owner": "java",
+            "fileLocation": [
+              "relative",
+              "${workspaceRoot}"
+            ],
+            "pattern": {
+              "regexp": "^(.*\\.java):(\\d+):\\s+(error):\\s+(.*)$",
+              "file": 1,
+              "line": 2,
+              "severity": 3,
+              "message": 4
+            }
+          }
+        }
+    ]
+}
