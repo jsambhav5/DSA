@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "name": "C/C++: Debug active file",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${fileDirname}/${fileBasenameNoExtension}",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${fileDirname}",
+      "environment": [],
+      "externalConsole": true,
+      "MIMode": "lldb",
+      "preLaunchTask": "C/C++: clang++ build active file",
+      "postDebugTask": "Remove C++ Executable",
+    },
+    {
+      "name": "Java: Debug active file",
+      "type": "java",
+      "request": "launch",
+      "mainClass": "${fileBasenameNoExtension}",
+      "args": ["<", "${workspaceFolder}/.miscellaneous/input.txt", ">", "${workspaceFolder}/.miscellaneous/output.txt"],
+      "cwd": "${fileDirname}",
+      "preLaunchTask": "Java: build active file",
+      "postDebugTask": "Remove Java Class",
+    }
+  ],
+  "version": "2.0.0"
+}
