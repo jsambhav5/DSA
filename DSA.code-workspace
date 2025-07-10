@@ -6,7 +6,7 @@
 	],
 	"settings": {
 		"code-runner.languageIdToFileExtensionMap": {
-			"cpp":` ".cpp",
+			"cpp": ".cpp",
 			"bat": ".bat",
 			"powershell": ".ps1",
 			"typescript": ".ts"
