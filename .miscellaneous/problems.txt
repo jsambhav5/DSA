@@ -892,3 +892,6 @@ Revised:
 
 	Day - 285:
 	108. LeetCode 1547 : Minimum Cost to Cut a Stick
+
+	Day - 286:
+	109. LeetCode 1143 : Longest Common Subsequence
