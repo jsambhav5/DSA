@@ -909,4 +909,8 @@ Revised:
 	113. LeetCode 123  : Best Time to Buy and Sell Stock III
 
 	Day - 291:
-	114. TUF+          : Book Allocation Problem
+	114. LeetCode 132  : Palindrome Partitioning II
+
+	Day - 292:
+	115. TUF+          : Book Allocation Problem
+
