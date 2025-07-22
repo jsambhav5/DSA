@@ -915,5 +915,4 @@ Revised:
 	115. TUF+          : Book Allocation Problem
 
 	Day - 293:
-	116.TUF+          : Fruit Into Baskets
-
+	116. TUF+          : Fruit Into Baskets
