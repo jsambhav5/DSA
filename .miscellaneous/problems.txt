@@ -922,3 +922,6 @@ Revised:
 
         Day - 295:
 	118. LeetCode 120  : Triangle
+        
+        Day - 296:
+	119. LeetCode 102  : Binary Tree Level Order Traversal
