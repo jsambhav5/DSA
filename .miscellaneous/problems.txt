@@ -919,3 +919,6 @@ Revised:
 
         Day - 294:
 	117. LeetCode 207  : Course Schedule
+
+        Day - 295:
+	118. LeetCode 120  : Triangle
