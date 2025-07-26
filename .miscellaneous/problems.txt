@@ -917,11 +917,14 @@ Revised:
 	Day - 293:
 	116. TUF+          : Fruit Into Baskets
 
-        Day - 294:
+    Day - 294:
 	117. LeetCode 207  : Course Schedule
 
-        Day - 295:
+    Day - 295:
 	118. LeetCode 120  : Triangle
         
-        Day - 296:
+    Day - 296:
 	119. LeetCode 102  : Binary Tree Level Order Traversal
+
+	Day - 297:
+	120. LeetCode 416  : Partition Equal Subset Sum
