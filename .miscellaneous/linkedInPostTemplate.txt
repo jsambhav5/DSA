@@ -1,4 +1,4 @@
-#Day__ of #300DaysOfDSA
+#Day__ of #365DaysOfDSA
 
 Topics and Learnings:  #TOPICS
 
@@ -20,7 +20,7 @@ Complexity Analysis:
 TC: O()
 SC: O()
 
-#300DaysLeetCodeChallenge #300DaysLeetCode
+#365DaysLeetCodeChallenge #365DaysLeetCode
 #DataStructures #Algorithms #ProblemSolving #DSA
 #LeetCode #TakeUForward #TUF+
 #SoftwareDevelopment #ContinuousLearning #ProfessionalGrowth #Coding
