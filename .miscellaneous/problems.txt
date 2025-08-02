@@ -377,7 +377,7 @@ Solved:
 	145. LeetCode 51   : N-Queens
 
 	Day - 114:
-	146. LeetCode 79   : WordSearch
+	146. LeetCode 79   : Word Search
 
 	Day - 126:
 	147. LeetCode 1614 : Maximum Nesting Depth of the Parentheses
@@ -946,3 +946,6 @@ Revised:
 
 	Day - 303:
 	126. LeetCode 583  : Delete Operation for Two Strings
+
+	Day - 304:
+	127. LeetCode 79   : Word Search
