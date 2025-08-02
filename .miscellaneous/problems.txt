@@ -949,3 +949,6 @@ Revised:
 
 	Day - 304:
 	127. LeetCode 79   : Word Search
+
+	Day - 305:
+	128. TUF+          : Kth element of 2 sorted arrays
