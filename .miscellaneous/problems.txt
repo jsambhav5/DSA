@@ -675,25 +675,25 @@ Revised:
 	41.  Leetcode 4    : Median of Two Sorted Arrays
 
 	Day - 159:
-	42.  TUF+          :  Find row with maximum 1's
+	42.  TUF+          : Find row with maximum 1's
 
 	Day - 161:
-	43.  TUF+          :  Lower Bound
+	43.  TUF+          : Lower Bound
 
 	Day - 162:
-	44.  TUF+          :  Upper Bound
+	44.  TUF+          : Upper Bound
 
 	Day - 163:
-	45.  TUF+          :  Floor and Ceil in Sorted Array
+	45.  TUF+          : Floor and Ceil in Sorted Array
 
 	Day - 164:
-	46.  TUF+          :  Find out how many times the array is rotated
+	46.  TUF+          : Find out how many times the array is rotated
 
 	Day - 165:
-	47.  TUF+          :  Find square root of a number
+	47.  TUF+          : Find square root of a number
 
 	Day - 166:
-	48.  TUF+          :  Find Nth root of a number
+	48.  TUF+          : Find Nth root of a number
 
 	Day - 167:
 	49.  LeetCode 1614 : Maximum Nesting Depth of the Parentheses
@@ -952,3 +952,6 @@ Revised:
 
 	Day - 305:
 	128. TUF+          : Kth element of 2 sorted arrays
+
+	Day - 306:
+	129. Leetcode 15   : 3Sum
