@@ -958,3 +958,6 @@ Revised:
 
 	Day - 307:
 	130. LeetCode 141  : Linked List Cycle
+
+	Day - 308:
+	131. LeetCode 785  : Is Graph Bipartite?
