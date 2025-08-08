@@ -964,3 +964,6 @@ Revised:
 
 	Day - 309:
 	132. LeetCode 208  : Implement Trie (Prefix Tree)
+
+	Day - 310:
+	133. LeetCode 151  : Reverse Each Word in a String
