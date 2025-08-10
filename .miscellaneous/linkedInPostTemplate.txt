@@ -1,8 +1,9 @@
 #Day__ of #365DaysOfDSA
 
-Topics and Learnings:  #TOPICS
+Topics and Learnings: #TOPIC_1, #TOPIC_2
 
 Problems Solved/Revised:
+
 __. #LeetCode #__ : PROBLEM_NAME
 Approach :
 APPROACH
