@@ -970,3 +970,9 @@ Revised:
 
 	Day - 311:
 	134. LeetCode 72   : Edit Distance
+
+	Day - 312:
+	135. TUF+          : Delete Tail of DLL
+
+	Day - 313:
+	136. LeetCode 104  : Maximum Depth of Binary Tree
