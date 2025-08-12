@@ -24,6 +24,11 @@
 			".php": "cd $dir && php $fileName",	
 			".vb": "cd $dir && vbc /nologo $fileName && $dir$fileNameWithoutExt",
 		},
-		"vscode_custom_css.imports": ["file:///Users/jsambhav5/Documents/Workspaces/Coding/Practice/DSA/.vscode/custom-vscode.css"]
+		"vscode_custom_css.imports": [
+			"file:///Users/jsambhav5/Documents/Workspaces/Coding/Practice/DSA/.vscode/custom-vscode.css"
+		],
+		"files.associations": {
+			"vector": "cpp"
+		}
 	}
 }
