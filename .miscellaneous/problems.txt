@@ -980,5 +980,12 @@ Revised:
 	Day - 314:
 	137. LeetCode 518  : Coin Change II
 
+	Day - 315:
+	138. LeetCode 507  : Perfect Number
+
 Revsion Pending:
-	1. 
+	1. LeetCode 268  : Missing Number in an Array
+	2. LeetCode 283  : Move Zeroes to the End of an Array
+	3. LeetCode 1004 : Max Consecutive Ones III
+	4. LeetCode 125  : Valid Palindrome
+	5. LeetCode 344  : Reverse String
