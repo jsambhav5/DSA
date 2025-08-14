@@ -995,7 +995,3 @@ Revised:
 	Day - 319:
 	142. LeetCode 1004 : Max Consecutive Ones III
 
-	Day - 320:
-	143. LeetCode 283  : Move Zeroes to the End of an Array
-
-	
