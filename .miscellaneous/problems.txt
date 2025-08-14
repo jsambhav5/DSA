@@ -986,8 +986,16 @@ Revised:
 	Day - 316:
 	139. LeetCode 344  : Reverse String
 
-Revsion Pending:
-	1. LeetCode 268  : Missing Number in an Array
-	2. LeetCode 283  : Move Zeroes to the End of an Array
-	3. LeetCode 1004 : Max Consecutive Ones III
-	4. LeetCode 125  : Valid Palindrome
+	Day - 317:
+	140. LeetCode 125  : Valid Palindrome
+
+	Day - 318:
+	141. LeetCode 268  : Missing Number in an Array
+
+	Day - 319:
+	142. LeetCode 1004 : Max Consecutive Ones III
+
+	Day - 320:
+	143. LeetCode 283  : Move Zeroes to the End of an Array
+
+	
