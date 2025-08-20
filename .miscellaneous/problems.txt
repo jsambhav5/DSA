@@ -995,3 +995,11 @@ Revised:
 	Day - 319:
 	142. LeetCode 1004 : Max Consecutive Ones III
 
+	Day - 320:
+	143. LeetCode 424  : Longest Repeating Character Replacement
+
+	Day - 321:
+	144. LeetCode 930  : Binary Subarrays With Sum
+
+	Day - 322:
+	145. LeetCode 1248 : Count Number of Nice Subarrays
