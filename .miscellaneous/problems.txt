@@ -1003,3 +1003,6 @@ Revised:
 
 	Day - 322:
 	145. LeetCode 1248 : Count Number of Nice Subarrays
+
+	Day - 323:
+	146. LeetCode 204  : Count Primes
