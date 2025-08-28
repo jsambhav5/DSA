@@ -1021,3 +1021,9 @@ Revised:
 
 	Day - 328:
 	151. LeetCode 88   : Merge Sorted Array
+
+	Day - 329:
+	152. LeetCode 774  : Minimize Max Distance to Gas Station
+
+	Day - 330:
+	153. LeetCode 50   : Pow(x, n)
