@@ -1027,3 +1027,6 @@ Revised:
 
 	Day - 330:
 	153. LeetCode 50   : Pow(x, n)
+
+	Day - 331:
+	154. LeetCode 22   : Generate Parentheses
