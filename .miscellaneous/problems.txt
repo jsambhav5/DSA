@@ -1030,3 +1030,33 @@ Revised:
 
 	Day - 331:
 	154. LeetCode 22   : Generate Parentheses
+
+	Day - 332:
+	155. TUF+          : Count all subsequences with sum K
+
+	Day - 333:
+	156. TUF+          : Check if there exists a subsequences with sum K
+
+	Day - 334:
+	157. LeetCode 40   : Combination Sum II
+
+	Day - 335:
+	158. LeetCode 216  : Combination Sum III
+
+	Day - 336:
+	159. TUF+          : Rat in a Maze
+
+	Day - 337:
+	160. LeetCode 37   : Sudoko Solver
+
+	Day - 338:
+	161. TUF+          : XOR of numbers in a given range
+
+	Day - 339:
+	162. LeetCode 29   : Divide Two Integers 
+
+	Day - 340:
+	163. LeetCode 242  : Valid Anagram
+
+	Day - 341:
+	164. LeetCode 1903 : Largest Odd Number in String
