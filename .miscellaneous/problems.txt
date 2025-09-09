@@ -1060,3 +1060,6 @@ Revised:
 
 	Day - 341:
 	164. LeetCode 1903 : Largest Odd Number in String
+
+	Day - 342:
+	165. LeetCode 205  : Isomorphic Strings
