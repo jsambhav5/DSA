@@ -1081,3 +1081,6 @@ Revised:
 
 	Day - 348:
 	171. LeetCode 1523 : Count Odd Numbers in an Interval Range
+
+	Day - 349:
+	172. LeetCode 231  : Power of Two
