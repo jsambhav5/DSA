@@ -1095,19 +1095,19 @@ Revised:
     175. TUF+          : Find Repeating and Missing Number
 
     Day - 353:
-    176. 
+    176. LeetCode 18   : 4-Sum
 
     Day - 354:
-    177. 
+    177. LeetCode 540  : Single Element in Sorted Array
 
     Day - 355:
-    178.
+    178. TUF+          : Find Number of Rotaions in Rotated Sorted Array
 
     Day - 356:
-    179.
+    179. TUF+          : Deletion of the Head of LL
 
     Day - 357:
-    180. 
+    180. LeetCode 237  : Delete Node In A LinkedList
 
     Day - 358:
-    181. 
+    181. LeetCode 876  : Middle of the Linked List
