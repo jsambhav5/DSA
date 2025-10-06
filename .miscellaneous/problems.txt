@@ -173,7 +173,7 @@ Solved:
 	77.  LeetCode 160  : Intersection of Two Linked Lists
 
 	Day - 46:
-	78.  LeetCode 61   : Roate List
+	78.  LeetCode 61   : Rotate List
 
 	Day - 47:
 	79.  LeetCode 42   : Trapping Rain Water
@@ -1122,25 +1122,25 @@ Revised:
     184. LeetCode 206  : Reverse Linked List
 
     Day - 362:
-    185.
+    185. LeetCode 142  : Linked List Cycle 2
 
     Day - 363:
-    186. 
+    186. LeetCode 2095 : Delete the Middle Node of a Linked List
 
     Day - 364:
-    187. 
+    187. LeetCode 61   : Rotate List
 
     Day - 365:
-    188. 
+    188. LeetCode 735  : Asteroid Collision
 
     Day - 366:
-    189. 
+    189. eetCode 455  : Assign Cookies
 
     Day - 367:
-    190. 
+    190. LeetCode 55   : Jump Game
 
     Day - 368:
-    191. 
+    191. LeetCode 435  : Non-overlapping Intervals
 
 	Day - 369:
-    192. 
+    192. LeetCode 103  : Binary Tree Zigzag Level Order Traversal
