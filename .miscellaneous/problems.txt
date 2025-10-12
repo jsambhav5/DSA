@@ -1162,3 +1162,6 @@ Revised:
 
     Day - 375:
     198. LeetCode 460  : LFU Cache
+
+	Day - 376:
+	199.LeetCode 1192 : Critical Connections in a Network
