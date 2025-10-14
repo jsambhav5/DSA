@@ -1167,4 +1167,4 @@ Revised:
 	199. LeetCode 1192 : Critical Connections in a Network
 
     Day - 377:
-    200. 
+    200. LeetCode 421  : Maximum XOR of Two Numbers in an Array
