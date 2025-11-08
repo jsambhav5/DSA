@@ -1246,3 +1246,5 @@ Revised 2:
     Day - 402:
 	22.  LeetCode 38   : Count and Say
 
+	Day - 403:
+	23.  LeetCode 876  : Middle of the Linked List
