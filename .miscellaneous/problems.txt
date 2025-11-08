@@ -547,7 +547,7 @@ Solved:
 	Day - 282
 	202. LeetCode 104  : Maximum Depth of Binary Tree
 
-Revised:
+Revised 1:
 	Day - 115:
 	0.   TUF+          : Sorting
 
@@ -1178,5 +1178,71 @@ Revised:
     Day - 380:
 	203. LeetCode 38   : Count and Say
 
+
+Revised 2:
     Day - 381:
-	204. 
+    182. LeetCode 100  : Same Tree
+
+    Day - 382
+    183. LeetCode 17   : Letter Combinations of a Phone Number
+
+    Day - 383:
+    184. LeetCode 206  : Reverse Linked List
+
+    Day - 384:
+    185. LeetCode 142  : Linked List Cycle 2
+
+    Day - 385:
+    186. LeetCode 2095 : Delete the Middle Node of a Linked List
+
+    Day - 386:
+    187. LeetCode 61   : Rotate List
+
+    Day - 387:
+    188. LeetCode 735  : Asteroid Collision
+
+    Day - 388:
+    189. LeetCode 455  : Assign Cookies
+
+    Day - 389:
+    190. LeetCode 55   : Jump Game
+
+    Day - 390:
+    191. LeetCode 435  : Non-overlapping Intervals
+
+	Day - 391:
+    192. LeetCode 103  : Binary Tree Zigzag Level Order Traversal
+
+    Day - 392:
+    193. LeetCode 662  : Maximum Width of Binary Tree
+
+    Day - 393: 
+    194. LeetCode 222  : Count Complete Tree Nodes
+
+    Day - 394:
+    195. LeetCode 127  : Word Ladder
+
+    Day - 395:
+    196. LeetCode 1319 : Number of Operations to Make Network Connected
+
+    Day - 396:
+    197. LeetCode 721  : Accounts Merge
+
+    Day - 397:
+    198. LeetCode 460  : LFU Cache
+
+	Day - 398:
+	199. LeetCode 1192 : Critical Connections in a Network
+
+    Day - 399:
+    200. LeetCode 421  : Maximum XOR of Two Numbers in an Array
+
+    Day - 400:
+    201. LeetCode 101  : Symmetric Tree
+
+    Day - 401:
+	202. LeetCode 131  : Palindrome Partitioning
+
+    Day - 402:
+	203. LeetCode 38   : Count and Say
+
