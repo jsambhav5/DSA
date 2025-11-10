@@ -1248,3 +1248,6 @@ Revised 2:
 
 	Day - 403:
 	23.  LeetCode 876  : Middle of the Linked List
+
+	Day - 404:
+    24.  LeetCode 237  : Delete Node In A LinkedList
