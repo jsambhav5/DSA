@@ -1257,3 +1257,6 @@ Revised 2:
 
     Day - 406:
     26.  TUF+          : Find Number of Rotaions in Rotated Sorted Array
+
+    Day - 407:
+    27.  LeetCode 540  : Single Element in Sorted Array
