@@ -1272,3 +1272,6 @@ Revised 2:
 
     Day - 411:
     31.  LeetCode 2220 : Minimum Bit Flips to Convert Number
+
+	Day - 412:
+	32.  LeetCode 231  : Power of Two
