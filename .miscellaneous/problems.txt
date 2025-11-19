@@ -1280,4 +1280,4 @@ Revised 2:
 	33.  LeetCode 1523 : Count Odd Numbers in an Interval Range
 
     Day - 414:
-	34. LeetCode 7    : Reverse Integer
+	34.  LeetCode 7    : Reverse Integer
