@@ -1305,3 +1305,6 @@ Revised 2:
 
 	Day - 422:
 	42.  LeetCode 29   : Divide Two Integers 
+
+	Day - 423:
+	43.  TUF+          : XOR of numbers in a given range
