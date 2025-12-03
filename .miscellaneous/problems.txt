@@ -1317,3 +1317,6 @@ Revised 2:
 
 	Day - 426:
 	46.  LeetCode 216  : Combination Sum III
+
+	Day - 427:
+	47.  LeetCode 40   : Combination Sum II
