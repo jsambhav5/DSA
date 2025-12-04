@@ -1320,3 +1320,6 @@ Revised 2:
 
 	Day - 427:
 	47.  LeetCode 40   : Combination Sum II
+
+	Day - 428:
+	48.  TUF+          : Check if there exists a subsequences with sum K
