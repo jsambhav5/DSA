@@ -1323,3 +1323,6 @@ Revised 2:
 
 	Day - 428:
 	48.  TUF+          : Check if there exists a subsequences with sum K
+
+	Day - 429:
+	49.  TUF+          : Count all subsequences with sum K
