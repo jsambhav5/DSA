@@ -1326,3 +1326,6 @@ Revised 2:
 
 	Day - 429:
 	49.  TUF+          : Count all subsequences with sum K
+
+	Day - 430:
+	50.  LeetCode 22   : Generate Parentheses
