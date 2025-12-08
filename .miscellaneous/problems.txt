@@ -1332,3 +1332,6 @@ Revised 2:
 
 	Day - 431:
 	51.  LeetCode 50   : Pow(x, n)
+
+	Day - 432:
+	52.  LeetCode 774  : Minimize Max Distance to Gas Station
