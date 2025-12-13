@@ -1347,3 +1347,6 @@ Revised 2:
 
 	Day - 436:
 	56. 				 Tiling Problem
+
+	Day - 437:
+	57.  LeetCode 51   : N-Queens
