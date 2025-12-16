@@ -1355,4 +1355,7 @@ Revised 2:
 	58.  LeetCode 204  : Count Primes
 
 	Day - 439:
-	159.  LeetCode 1248 : Count Number of Nice Subarrays
+	59.  LeetCode 1248 : Count Number of Nice Subarrays
+
+	Day - 440:
+	60.  LeetCode 930  : Binary Subarrays With Sum
