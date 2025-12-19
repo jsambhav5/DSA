@@ -1365,3 +1365,6 @@ Revised 2:
 
 	Day - 442:
 	62.  LeetCode 1004 : Max Consecutive Ones III
+
+	Day - 443:
+	63.  LeetCode 268  : Missing Number in an Array
