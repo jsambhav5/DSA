@@ -1,5 +1,5 @@
 Pending:
-	1. LeetCode 493,  TUF+ : Reverse Pairs
+	1. LeetCode 493, TUF+ : Reverse Pairs
 
 Done:
 	1.
