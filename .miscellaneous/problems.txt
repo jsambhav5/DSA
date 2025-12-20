@@ -1368,3 +1368,11 @@ Revised 2:
 
 	Day - 443:
 	63.  LeetCode 268  : Missing Number in an Array
+
+	Day - 444:
+	64.  LeetCode 125  : Valid Palindrome
+	
+	Day - 445:
+	65.  LeetCode 344  : Reverse String
+
+	
