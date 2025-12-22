@@ -1375,4 +1375,5 @@ Revised 2:
 	Day - 445:
 	65.  LeetCode 344  : Reverse String
 
-	
+	Day - 446:
+	66.  LeetCode 507  : Perfect Number
