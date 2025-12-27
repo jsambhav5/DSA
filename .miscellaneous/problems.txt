@@ -1389,3 +1389,6 @@ Revised 2:
 
 	Day - 450:
 	70.  LeetCode 72   : Edit Distance
+
+	Day - 451:
+	71.  LeetCode 151  : Reverse Each Word in a String
