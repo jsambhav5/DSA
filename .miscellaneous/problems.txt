@@ -1395,3 +1395,6 @@ Revised 2:
 
 	Day - 452:
 	72.  LeetCode 208  : Implement Trie (Prefix Tree)
+
+	Day - 453:
+	73.  LeetCode 785  : Is Graph Bipartite?
