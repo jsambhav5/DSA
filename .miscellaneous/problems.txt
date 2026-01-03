@@ -1410,3 +1410,6 @@ Revised 2:
 
 	Day - 457:
 	77.  LeetCode 79   : Word Search
+
+	Day - 458:
+	78.  LeetCode 583  : Delete Operation for Two Strings
