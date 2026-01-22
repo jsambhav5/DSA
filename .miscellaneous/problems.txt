@@ -1467,3 +1467,6 @@ Revised 2:
 
 	Day - 476:
 	96.  LeetCode 1547 : Minimum Cost to Cut a Stick
+
+	Day - 477:
+	97.  LeetCode 1631 : Path With Minimum Effort
