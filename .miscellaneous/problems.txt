@@ -1470,3 +1470,6 @@ Revised 2:
 
 	Day - 477:
 	97.  LeetCode 1631 : Path With Minimum Effort
+
+    Day - 478:
+	98.  LeetCode 1707 : Maximum XOR With an Element From Array
