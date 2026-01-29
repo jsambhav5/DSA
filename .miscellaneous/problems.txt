@@ -1489,3 +1489,6 @@ Revised 2:
 	Day - 483:
 	103. LeetCode 322  : Coin Change
 
+	Day - 484:
+	104. LeetCode 494  : Target Sum
+
