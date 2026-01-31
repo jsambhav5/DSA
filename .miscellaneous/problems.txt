@@ -1494,3 +1494,6 @@ Revised 2:
 
 	Day - 485:
 	105. LeetCode 98   : Validate Binary Search Tree
+
+	Day - 486:
+	106. LeetCode 39   : Combination Sum
