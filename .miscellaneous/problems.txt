@@ -1496,4 +1496,7 @@ Revised 2:
 	105. LeetCode 98   : Validate Binary Search Tree
 
 	Day - 486:
-	106. LeetCode 39   : Combination Sum
+	106. LeetCode 39   : Combination sum
+
+	Day - 487:
+	107. LeetCode 1358 : Number of Substrings Containing All Three
