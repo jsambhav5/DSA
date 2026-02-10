@@ -1524,3 +1524,6 @@ Revised 2:
 
     Day - 495:
 	115. LeetCode 42   : Trapping Rain Water
+
+    Day - 496:
+	116. LeetCode 860  : Lemonade Change
