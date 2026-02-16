@@ -1542,3 +1542,6 @@ Revised 2:
 
 	Day - 501:
 	121. LeetCode 328  : Odd Even Linked List
+
+	Day - 502:
+	122. LeetCode 19   : Remove Nth Node From End of List
