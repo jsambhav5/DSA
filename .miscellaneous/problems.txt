@@ -1548,3 +1548,6 @@ Revised 2:
 
 	Day - 503:
 	123. TUF+          : Sort a LL of 0's 1's and 2's
+
+    Day - 254:
+	124. TUF+          : Reverse a LL
