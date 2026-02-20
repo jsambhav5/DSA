@@ -1554,3 +1554,6 @@ Revised 2:
 
 	Day - 505:
 	125. TUF+          : Insert before given node in DLL
+
+	Day - 506:
+	126. TUF+          : Insert node before tail in DLL
