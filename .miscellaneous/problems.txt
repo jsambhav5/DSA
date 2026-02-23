@@ -1561,5 +1561,8 @@ Revised 2:
 	Day - 507:
 	127. TUF+          : Insert node before (kth node) in DLL
 
-	Day - 248:
+	Day - 508:
 	128. TUF+          : Removing given node in DLL
+
+    Day - 509:
+	129. TUF+          : Delete Kth Element of DLL
