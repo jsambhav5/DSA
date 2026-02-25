@@ -1569,3 +1569,6 @@ Revised 2:
 
     Day - 510:
 	130. TUF+          : Convert Array to DLL
+
+	Day - 511:
+	131. TUF+          : Deletion of the tail of LL
