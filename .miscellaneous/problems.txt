@@ -1572,3 +1572,6 @@ Revised 2:
 
 	Day - 511:
 	131. TUF+          : Deletion of the tail of LL
+
+	Day - 512:
+	132. TUF+          : Deletion of the Kth element of LL
