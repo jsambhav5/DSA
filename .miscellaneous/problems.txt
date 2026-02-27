@@ -1575,3 +1575,6 @@ Revised 2:
 
 	Day - 512:
 	132. TUF+          : Deletion of the Kth element of LL
+
+	Day - 513:
+	133. TUF+          : Delete the element with value X
