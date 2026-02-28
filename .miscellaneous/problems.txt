@@ -1578,3 +1578,6 @@ Revised 2:
 
 	Day - 513:
 	133. TUF+          : Delete the element with value X
+
+	Day - 514:
+	134. TUF+          : Delete head of DLL
