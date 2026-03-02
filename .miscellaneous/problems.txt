@@ -1584,6 +1584,9 @@ Revised 2:
 
 	Day - 515:
 	135. TUF+          : Delete head of DLL
-us
+
 	Day - 516:
 	136. TUF+          : Insert node before head in DLL
+
+	Day - 517:
+	137. TUF+          : Insertion before the value X in LL
