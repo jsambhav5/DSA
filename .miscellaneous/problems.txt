@@ -1590,3 +1590,6 @@ Revised 2:
 
 	Day - 517:
 	137. TUF+          : Insertion before the value X in LL
+
+    Day - 518:
+	138. TUF+          : Insertion at the tail of LL
