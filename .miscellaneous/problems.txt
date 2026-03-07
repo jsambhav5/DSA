@@ -1599,3 +1599,6 @@ Revised 2:
 
 	Day - 520:
 	140.  TUF+         : Insertion at the head of LL
+
+	Day - 521:
+	141. LeetCode 214  : Shortest Palindrome
