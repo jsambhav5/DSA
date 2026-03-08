@@ -1602,3 +1602,6 @@ Revised 2:
 
 	Day - 521:
 	141. LeetCode 214  : Shortest Palindrome
+
+	Day - 522:
+	142. LeetCode 1392 : Longest Happy Prefix
