@@ -1605,3 +1605,6 @@ Revised 2:
 
 	Day - 522:
 	142. LeetCode 1392 : Longest Happy Prefix
+
+    Day - 523:
+	143. LeetCode 282  : Expression Add Operators
