@@ -1608,3 +1608,6 @@ Revised 2:
 
     Day - 523:
 	143. LeetCode 282  : Expression Add Operators
+
+	Day - 524:
+	144. LeetCode 139  : Word Break
