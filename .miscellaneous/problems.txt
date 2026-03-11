@@ -1611,3 +1611,6 @@ Revised 2:
 
 	Day - 524:
 	144. LeetCode 139  : Word Break
+
+	Day - 525:
+	145. LeetCode 8    : String to Integer (atoi)
