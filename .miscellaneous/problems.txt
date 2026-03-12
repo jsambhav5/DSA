@@ -1614,3 +1614,6 @@ Revised 2:
 
 	Day - 525:
 	145. LeetCode 8    : String to Integer (atoi)
+
+	Day - 526:
+	146. LeetCode 1922 : Count Good Numbers
