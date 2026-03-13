@@ -1617,3 +1617,6 @@ Revised 2:
 
 	Day - 526:
 	146. LeetCode 1922 : Count Good Numbers
+
+	Day - 527:
+	147. TUF+          : Prime factorisation of a Number
