@@ -1626,3 +1626,6 @@ Revised 2:
 
 	Day - 529:
 	149. TUF+          : Single Number - 3
+
+	Day - 530:
+	150. TUF+          : Aggressive Cows
