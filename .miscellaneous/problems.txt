@@ -1632,3 +1632,6 @@ Revised 2:
 
     Day - 531:
 	151. Leetcode 70   : Climbing Stairs
+
+	Day - 532:
+	152. Leetcode 152  : Maximum Product Subarray
