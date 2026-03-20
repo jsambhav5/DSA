@@ -1638,3 +1638,6 @@ Revised 2:
 
 	Day - 533:
 	153. TUF+          : Find the repeating and missing number
+
+	Day - 534:
+	154. LeetCode 493  : Reverse Pairs
