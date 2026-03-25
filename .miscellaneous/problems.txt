@@ -1653,3 +1653,6 @@ Revised 2:
 
 	Day - 538:
 	158. TUF+          : Find square root of a number
+
+	Day - 539:
+	159. TUF+          : Find out how many times the array is rotated
