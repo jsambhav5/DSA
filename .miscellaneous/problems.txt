@@ -1665,3 +1665,6 @@ Revised 2:
 
 	Day - 542:
 	162. TUF+          : Lower Bound
+
+	Day - 543:
+	163. TUF+          : Find row with maximum 1's
