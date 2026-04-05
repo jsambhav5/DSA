@@ -1686,3 +1686,6 @@ Revised 2:
 
 	Day - 549:
 	169. Leetcode 875  : Koko Eating Bananas
+
+	Day - 550:
+	170. Leetcode 1283 : Find the Smallest Divisor Given a Threshold
