@@ -1692,3 +1692,6 @@ Revised 2:
 
 	Day - 551:
 	171. Leetcode 1901 : Find a Peak Element II
+
+	Day - 552:
+	172. Leetcode 162  : Find Peak Element
