@@ -1695,3 +1695,6 @@ Revised 2:
 
 	Day - 552:
 	172. Leetcode 162  : Find Peak Element
+
+	Day - 553:
+	173. Leetcode 540  : Single Element in a Sorted Array
