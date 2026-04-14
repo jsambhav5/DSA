@@ -1713,3 +1713,6 @@ Revised 2:
 
 	Day - 558:
 	178. Leetcode 35   : Search Insert Position
+
+	Day - 559:
+	179. Leetcode 704  : Binary Search
