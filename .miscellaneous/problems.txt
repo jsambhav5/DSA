@@ -1723,5 +1723,8 @@ Revised 2:
 	Day - 561:
 	181. Leetcode 15   : 3Sum
 
-	Day - 52:
+	Day - 562:
 	182. Leetcode 229  : Majority Element II
+
+	Day - 563:
+	183. Leetcode 169  : Majority Element
