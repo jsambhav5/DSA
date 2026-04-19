@@ -1728,3 +1728,6 @@ Revised 2:
 
 	Day - 563:
 	183. Leetcode 169  : Majority Element
+
+	Day - 564:
+	184. Leetcode 54   : Spiral Matrix
