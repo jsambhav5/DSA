@@ -1764,3 +1764,6 @@ Revised 2:
 
 	Day - 575:
 	195. TUF+          : Second Largest Element
+
+    Day - 576:
+	196.  LeetCode 26   : Remove Duplicates from Sorted Array
