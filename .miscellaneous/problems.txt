@@ -1767,3 +1767,6 @@ Revised 2:
 
     Day - 576:
 	196.  LeetCode 26   : Remove Duplicates from Sorted Array
+
+	Day - 577:
+	197. LeetCode 268  : Missing Number
