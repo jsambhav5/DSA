@@ -1779,3 +1779,6 @@ Revised 2:
 
 	Day - 580:
 	200. TUF+          : Largest Element
+
+	Day - 581:
+	201. LeetCode 1752 : Check if Array Is Sorted and Rotated
