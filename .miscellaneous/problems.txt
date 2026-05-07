@@ -1782,3 +1782,6 @@ Revised 2:
 
 	Day - 581:
 	201. LeetCode 1752 : Check if Array Is Sorted and Rotated
+
+	Day - 582:
+	202. LeetCode 283  : Move Zeroes
