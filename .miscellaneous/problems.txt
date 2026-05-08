@@ -1785,3 +1785,6 @@ Revised 2:
 
 	Day - 582:
 	202. LeetCode 283  : Move Zeroes
+
+	Day - 583:
+	203. LeetCode 136  : Single Number
