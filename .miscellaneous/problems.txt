@@ -1788,3 +1788,6 @@ Revised 2:
 
 	Day - 583:
 	203. LeetCode 136  : Single Number
+
+    Day - 584:
+	204. TUF+          : Linear Search
