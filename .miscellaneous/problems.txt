@@ -1791,3 +1791,7 @@ Revised 2:
 
     Day - 584:
 	204. TUF+          : Linear Search
+
+Revised 3:
+	Day - 585:
+    1.   LeetCode 100  : Same Tree
