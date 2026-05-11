@@ -1183,7 +1183,7 @@ Revised 2:
     Day - 381:
     1.   LeetCode 100  : Same Tree
 
-    Day - 382
+    Day - 382:
     2.   LeetCode 17   : Letter Combinations of a Phone Number
 
     Day - 383:
@@ -1795,3 +1795,6 @@ Revised 2:
 Revised 3:
 	Day - 585:
     1.   LeetCode 100  : Same Tree
+
+    Day - 586:
+    2.   LeetCode 17   : Letter Combinations of a Phone Number
