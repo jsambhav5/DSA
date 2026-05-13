@@ -1801,3 +1801,6 @@ Revised 3:
 
     Day - 587:
     3.   LeetCode 206  : Reverse Linked List
+
+    Day - 588:
+    4.   LeetCode 142  : Linked List Cycle 2
