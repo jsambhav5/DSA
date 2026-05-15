@@ -1807,3 +1807,6 @@ Revised 3:
 
     Day - 589:
     5.   LeetCode 2095 : Delete the Middle Node of a Linked List
+
+    Day - 590:
+    6.   LeetCode 61   : Rotate List
