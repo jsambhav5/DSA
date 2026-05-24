@@ -1834,3 +1834,6 @@ Revised 3:
 
     Day - 598:
     14.  LeetCode 127  : Word Ladder
+
+    Day - 599:
+    15.  LeetCode 1319 : Number of Operations to Make Network Connected
