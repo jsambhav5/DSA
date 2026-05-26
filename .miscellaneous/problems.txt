@@ -1840,3 +1840,6 @@ Revised 3:
 
     Day - 600:
     16.  LeetCode 721  : Accounts Merge
+
+    Day - 601:
+    17.  LeetCode 460  : LFU Cache
