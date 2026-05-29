@@ -1846,3 +1846,9 @@ Revised 3:
 
 	Day - 602:
 	18.  LeetCode 1192 : Critical Connections in a Network
+
+    Day - 603:
+    19.  LeetCode 421  : Maximum XOR of Two Numbers in an Array
+
+    Day - 604:
+    20.  LeetCode 101  : Symmetric Tree
