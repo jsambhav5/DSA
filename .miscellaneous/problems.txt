@@ -1852,3 +1852,6 @@ Revised 3:
 
     Day - 604:
     20.  LeetCode 101  : Symmetric Tree
+
+    Day - 605:
+	21.  LeetCode 131  : Palindrome Partitioning
