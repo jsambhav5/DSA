@@ -1855,3 +1855,6 @@ Revised 3:
 
     Day - 605:
 	21.  LeetCode 131  : Palindrome Partitioning
+
+    Day - 606:
+	22.  LeetCode 38   : Count and Say
