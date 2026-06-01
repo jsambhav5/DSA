@@ -1858,3 +1858,6 @@ Revised 3:
 
     Day - 606:
 	22.  LeetCode 38   : Count and Say
+
+	Day - 607:
+	23.  LeetCode 876  : Middle of the Linked List
