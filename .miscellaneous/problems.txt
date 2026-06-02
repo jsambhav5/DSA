@@ -1861,3 +1861,6 @@ Revised 3:
 
 	Day - 607:
 	23.  LeetCode 876  : Middle of the Linked List
+
+	Day - 608:
+    24.  LeetCode 237  : Delete Node In A LinkedList
