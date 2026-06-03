@@ -1864,3 +1864,6 @@ Revised 3:
 
 	Day - 608:
     24.  LeetCode 237  : Delete Node In A LinkedList
+
+    Day - 609:
+    25.  TUF+          : Deletion of the Head of LL
