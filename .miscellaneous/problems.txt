@@ -1867,3 +1867,6 @@ Revised 3:
 
     Day - 609:
     25.  TUF+          : Deletion of the Head of LL
+
+    Day - 610:
+    26.  TUF+          : Find Number of Rotaions in Rotated Sorted Array
