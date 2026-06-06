@@ -1873,3 +1873,6 @@ Revised 3:
 
     Day - 611:
     27.  LeetCode 540  : Single Element in Sorted Array
+
+    Day - 612:
+    28.  LeetCode 18   : 4-Sum
