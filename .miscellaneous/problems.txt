@@ -1903,3 +1903,6 @@ Revised 3:
 
 	Day - 621:
 	37.  LeetCode 796  : Rotate String
+
+	Day - 622:
+	38.  LeetCode 14   : Longest Common Prefix
