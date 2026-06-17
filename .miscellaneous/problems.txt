@@ -1906,3 +1906,6 @@ Revised 3:
 
 	Day - 622:
 	38.  LeetCode 14   : Longest Common Prefix
+
+	Day - 623:
+	39.  LeetCode 205  : Isomorphic Strings
