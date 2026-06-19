@@ -1912,3 +1912,6 @@ Revised 3:
 
 	Day - 624:
 	40.  LeetCode 1903 : Largest Odd Number in String
+
+	Day - 625:
+	41.  LeetCode 242  : Valid Anagram
