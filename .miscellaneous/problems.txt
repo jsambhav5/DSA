@@ -1921,3 +1921,6 @@ Revised 3:
 
 	Day - 627:
 	43.  TUF+          : XOR of numbers in a given range
+
+	Day - 628:
+	44.  LeetCode 37   : Sudoko Solver
