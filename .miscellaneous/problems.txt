@@ -1936,3 +1936,6 @@ Revised 3:
 
 	Day - 632:
 	48.  TUF+          : Check if there exists a subsequences with sum K
+
+	Day - 633:
+	49.  TUF+          : Count all subsequences with sum K
