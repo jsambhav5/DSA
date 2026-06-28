@@ -1939,3 +1939,6 @@ Revised 3:
 
 	Day - 633:
 	49.  TUF+          : Count all subsequences with sum K
+
+	Day - 634:
+	50.  LeetCode 22   : Generate Parentheses
