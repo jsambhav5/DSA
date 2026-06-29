@@ -1942,3 +1942,6 @@ Revised 3:
 
 	Day - 634:
 	50.  LeetCode 22   : Generate Parentheses
+
+	Day - 635:
+	51.  LeetCode 50   : Pow(x, n)
