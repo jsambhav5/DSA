@@ -1960,3 +1960,6 @@ Revised 3:
 
 	Day - 640:
 	56. 				 Tiling Problem
+
+	Day - 641:
+	57.  LeetCode 51   : N-Queens
