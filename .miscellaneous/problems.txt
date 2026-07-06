@@ -1963,3 +1963,6 @@ Revised 3:
 
 	Day - 641:
 	57.  LeetCode 51   : N-Queens
+
+	Day - 642:
+	58.  LeetCode 204  : Count Primes
