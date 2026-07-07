@@ -1966,3 +1966,6 @@ Revised 3:
 
 	Day - 642:
 	58.  LeetCode 204  : Count Primes
+
+	Day - 643:
+	59.  LeetCode 1248 : Count Number of Nice Subarrays
