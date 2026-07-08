@@ -1969,3 +1969,6 @@ Revised 3:
 
 	Day - 643:
 	59.  LeetCode 1248 : Count Number of Nice Subarrays
+
+	Day - 644:
+	60.  LeetCode 930  : Binary Subarrays With Sum
