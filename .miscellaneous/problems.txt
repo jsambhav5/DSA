@@ -1972,3 +1972,6 @@ Revised 3:
 
 	Day - 644:
 	60.  LeetCode 930  : Binary Subarrays With Sum
+
+    Day - 645:
+	61.  LeetCode 424  : Longest Repeating Character Replacement
