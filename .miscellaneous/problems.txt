@@ -1978,3 +1978,6 @@ Revised 3:
 
 	Day - 646:
 	62.  LeetCode 1004 : Max Consecutive Ones III
+
+	Day - 647:
+	63.  LeetCode 268  : Missing Number in an Array
