@@ -1981,3 +1981,6 @@ Revised 3:
 
 	Day - 647:
 	63.  LeetCode 268  : Missing Number in an Array
+
+	Day - 648:
+	64.  LeetCode 125  : Valid Palindrome
