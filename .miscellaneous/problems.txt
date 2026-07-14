@@ -1987,3 +1987,6 @@ Revised 3:
 	
 	Day - 649:
 	65.  LeetCode 344  : Reverse String
+
+	Day - 650:
+	66.  LeetCode 507  : Perfect Number
