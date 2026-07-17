@@ -1996,3 +1996,6 @@ Revised 3:
 
 	Day - 652:
 	68.  LeetCode 104  : Maximum Depth of Binary Tree
+
+	Day - 653:
+	69.  TUF+          : Delete Tail of DLL
