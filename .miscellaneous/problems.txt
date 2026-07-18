@@ -1999,3 +1999,6 @@ Revised 3:
 
 	Day - 653:
 	69.  TUF+          : Delete Tail of DLL
+
+	Day - 654:
+	70.  LeetCode 72   : Edit Distance
