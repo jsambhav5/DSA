@@ -2002,3 +2002,6 @@ Revised 3:
 
 	Day - 654:
 	70.  LeetCode 72   : Edit Distance
+
+	Day - 655:
+	71.  LeetCode 151  : Reverse Each Word in a String
