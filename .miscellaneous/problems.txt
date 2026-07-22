@@ -2011,3 +2011,6 @@ Revised 3:
 
 	Day - 657:
 	73.  LeetCode 785  : Is Graph Bipartite?
+
+	Day - 658:
+	74.  LeetCode 141  : Linked List Cycle
