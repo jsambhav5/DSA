@@ -2007,13 +2007,19 @@ Revised 3:
 	71.  LeetCode 151  : Reverse Each Word in a String
 
 	Day - 656:
-	72.  LeetCode 208  : Implement Trie (Prefix Tree)
+	76.  TUF+          : Kth element of 2 sorted arrays
 
 	Day - 657:
-	73.  LeetCode 785  : Is Graph Bipartite?
+	72.  LeetCode 208  : Implement Trie (Prefix Tree)
 
 	Day - 658:
-	74.  LeetCode 141  : Linked List Cycle
+	73.  LeetCode 785  : Is Graph Bipartite?
 
 	Day - 659:
+	74.  LeetCode 141  : Linked List Cycle
+
+	Day - 660:
 	75.  Leetcode 15   : 3Sum
+
+	Day - 661:
+	76.  TUF+          : Kth element of 2 sorted arrays
