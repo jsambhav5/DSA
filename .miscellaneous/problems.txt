@@ -2026,3 +2026,6 @@ Revised 3:
 
 	Day - 662:
 	77.  LeetCode 79   : Word Search
+
+	Day - 663:
+	78.  LeetCode 583  : Delete Operation for Two Strings
