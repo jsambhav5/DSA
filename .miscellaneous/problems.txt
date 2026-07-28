@@ -2032,3 +2032,6 @@ Revised 3:
 
 	Day - 664:
 	79.  LeetCode 90   : Subsets 2
+
+	Day - 665:
+	80.  TUF+          : Subsets 1
