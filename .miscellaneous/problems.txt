@@ -2035,3 +2035,6 @@ Revised 3:
 
 	Day - 665:
 	80.  TUF+          : Subsets 1
+
+	Day - 666:
+	81.  LeetCode 78   : Subsets
