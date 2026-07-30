@@ -2038,3 +2038,6 @@ Revised 3:
 
 	Day - 666:
 	81.  LeetCode 78   : Subsets
+
+    Day - 667:
+	82.  TUF+          : M Coloring Problem
