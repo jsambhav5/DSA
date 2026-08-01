@@ -2044,3 +2044,6 @@ Revised 3:
 
     Day - 668:
 	83.  LeetCode 827  : Making A Large Island
+
+	Day - 669:
+	84.  LeetCode 416  : Partition Equal Subset Sum
