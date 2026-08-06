@@ -2056,3 +2056,9 @@ Revised 3:
 
     Day - 672:
 	87.  LeetCode 207  : Course Schedule
+
+	Day - 673:
+	88.  TUF+          : Fruit Into Baskets
+
+	Day - 674:
+	89.  TUF+          : Book Allocation Problem
