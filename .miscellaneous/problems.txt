@@ -2062,3 +2062,6 @@ Revised 3:
 
 	Day - 674:
 	89.  TUF+          : Book Allocation Problem
+
+	Day - 675:
+	90.  LeetCode 132  : Palindrome Partitioning II
