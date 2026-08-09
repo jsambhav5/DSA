@@ -1,34 +1,40 @@
 {
 	"folders": [
 		{
-			"path": "."
-		}
+			"path": ".",
+		},
 	],
 	"settings": {
 		"code-runner.languageIdToFileExtensionMap": {
 			"cpp": ".cpp",
 			"bat": ".bat",
 			"powershell": ".ps1",
-			"typescript": ".ts"
+			"typescript": ".ts",
+			"java": ".java",
 		},
 		"code-runner.executorMapByFileExtension": {
 			".cpp": "cd $dir && g++ -std=c++17 -O2 -o $fileNameWithoutExt $fileName && $dir$fileNameWithoutExt > output.txt && cat output.txt",
 			".py": "cd $dir && python3 $fileName",
 			".js": "cd $dir && node $fileName",
 			".ts": "cd $dir && tsc $fileName && node $dir$fileNameWithoutExt.js",
-			".java": "cd $dir && javac $fileName && java -cp . $fileNameWithoutExt",
+			".java": "cp '${file}' '${workspaceFolder}/${fileBasenameNoExtension}.java' && javac '${workspaceFolder}/${fileBasenameNoExtension}.java' && java ${fileBasenameNoExtension} < .miscellaneous/input.txt > .miscellaneous/output.txt && rm '${workspaceFolder}/${fileBasenameNoExtension}.java' && rm '${workspaceFolder}/${fileBasenameNoExtension}.class'",
 			".go": "cd $dir && go run $fileName",
 			".sh": "cd $dir && bash $fileName",
 			".ps1": "cd $dir && powershell -ExecutionPolicy Bypass -File $fileName",
 			".bat": "cd $dir && cmd /c start cmd /k \"$fileName\"",
-			".php": "cd $dir && php $fileName",	
+			".php": "cd $dir && php $fileName",
 			".vb": "cd $dir && vbc /nologo $fileName && $dir$fileNameWithoutExt",
 		},
 		"vscode_custom_css.imports": [
-			"file:///Users/jsambhav5/Documents/Workspaces/Coding/Practice/DSA/.vscode/custom-vscode.css"
+			"file:///Users/jsambhav5/Documents/Workspaces/Coding/Practice/DSA/.vscode/custom-vscode.css",
 		],
 		"files.associations": {
-			"vector": "cpp"
-		}
-	}
+			"vector": "cpp",
+		},
+		"java.debug.settings.onBuildFailureProceed": true,
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [],
+	},
 }
