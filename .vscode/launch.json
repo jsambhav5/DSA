@@ -1,13 +1,6 @@
 {
 	"configurations": [
 		{
-			"type": "java",
-			"name": "LinearSearch",
-			"request": "launch",
-			"mainClass": "LinearSearch",
-			"projectName": "DSA_ab82d1a9"
-		},
-		{
 			"name": "C/C++: Debug active file",
 			"type": "cppdbg",
 			"request": "launch",
