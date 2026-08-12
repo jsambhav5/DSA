@@ -2077,3 +2077,6 @@ Revised 3:
 
 	Day - 679:
 	94.  LeetCode 62   : Unique Paths
+
+	Day - 680:
+	95.  LeetCode 1143 : Longest Common Subsequence
