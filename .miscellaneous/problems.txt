@@ -2092,3 +2092,6 @@ Revised 3:
 
     Day - 684:
 	99.  LeetCode 236  : Lowest Common Ancestor of a Binary Tree
+
+    Day - 685:
+	100. TUF+          : Count Inversions
