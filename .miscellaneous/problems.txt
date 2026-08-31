@@ -2134,3 +2134,6 @@ Revised 3:
 
 	Day - 688:
 	113. LeetCode 213  : House Robber II
+
+	Day - 689:
+	114. LeetCode 198  : House Robber
