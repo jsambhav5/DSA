@@ -2137,3 +2137,6 @@ Revised 3:
 
 	Day - 689:
 	114. LeetCode 198  : House Robber
+
+    Day - 690:
+	115. LeetCode 42   : Trapping Rain Water
