@@ -1537,7 +1537,7 @@ Revised 2:
     Day - 499:
 	119. LeetCode 160  : Intersection of Two Linked Lists
 
-    Day - 500
+    Day - 500:
 	120. LeetCode 148  : Sort List
 
 	Day - 501:
@@ -2152,3 +2152,6 @@ Revised 3:
 
     Day - 694:
 	119. LeetCode 160  : Intersection of Two Linked Lists
+
+    Day - 695:
+	120. LeetCode 148  : Sort List
