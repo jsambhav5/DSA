@@ -2167,3 +2167,6 @@ Revised 3:
 
     Day - 699:
 	124. TUF+          : Reverse a LL
+
+	Day - 700:
+	125. TUF+          : Insert before given node in DLL
