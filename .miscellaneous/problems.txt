@@ -2173,3 +2173,6 @@ Revised 3:
 
 	Day - 701:
 	126. TUF+          : Insert node before tail in DLL
+
+	Day - 702:
+	127. TUF+          : Insert node before (kth node) in DLL
