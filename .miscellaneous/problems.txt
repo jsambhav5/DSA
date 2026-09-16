@@ -2182,3 +2182,6 @@ Revised 3:
 
     Day - 704:
 	129. TUF+          : Delete Kth Element of DLL
+
+    Day - 705:
+	130. TUF+          : Convert Array to DLL
