@@ -2197,3 +2197,6 @@ Revised 3:
 
 	Day - 709:
 	134. TUF+          : Delete head of DLL
+
+	Day - 710:
+	135. TUF+          : Delete head of DLL
