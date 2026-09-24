@@ -2206,3 +2206,6 @@ Revised 3:
 
 	Day - 712:
 	137. LeetCode 518  : Coin Change II
+
+	Day - 713:
+	138. LeetCode 507  : Perfect Number
