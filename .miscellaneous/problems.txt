@@ -2209,3 +2209,6 @@ Revised 3:
 
 	Day - 713:
 	138. LeetCode 507  : Perfect Number
+
+	Day - 714:
+	139. LeetCode 344  : Reverse String
