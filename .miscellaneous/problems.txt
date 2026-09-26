@@ -2212,3 +2212,6 @@ Revised 3:
 
 	Day - 714:
 	139. LeetCode 344  : Reverse String
+
+	Day - 715:
+	140. LeetCode 125  : Valid Palindrome
