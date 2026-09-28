@@ -2215,3 +2215,6 @@ Revised 3:
 
 	Day - 715:
 	140. LeetCode 125  : Valid Palindrome
+
+	Day - 716:
+	141. LeetCode 268  : Missing Number in an Array
