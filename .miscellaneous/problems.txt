@@ -2218,3 +2218,6 @@ Revised 3:
 
 	Day - 716:
 	141. LeetCode 268  : Missing Number in an Array
+
+	Day - 717:
+	142. LeetCode 1004 : Max Consecutive Ones III
