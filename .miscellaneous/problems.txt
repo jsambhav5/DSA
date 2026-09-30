@@ -2221,3 +2221,6 @@ Revised 3:
 
 	Day - 717:
 	142. LeetCode 1004 : Max Consecutive Ones III
+
+	Day - 718:
+	143. LeetCode 424  : Longest Repeating Character Replacement
