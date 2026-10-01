@@ -2227,3 +2227,6 @@ Revised 3:
 
 	Day - 719:
 	144. LeetCode 930  : Binary Subarrays With Sum
+
+	Day - 720:
+	145. LeetCode 1248 : Count Number of Nice Subarrays
