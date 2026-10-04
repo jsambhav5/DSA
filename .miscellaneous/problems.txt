@@ -2233,3 +2233,6 @@ Revised 3:
 
 	Day - 721:
 	146. LeetCode 204  : Count Primes
+
+	Day - 722:
+	147. LeetCode 51   : N-Queens
