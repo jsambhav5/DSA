@@ -2202,43 +2202,46 @@ Revised 3:
 	135. TUF+          : Delete head of DLL
 
 	Day - 711:
-	136. LeetCode 104  : Maximum Depth of Binary Tree
+	136. TUF+          : Insert node before head in DLL
 
 	Day - 712:
-	137. LeetCode 518  : Coin Change II
+	137. TUF+          : Insertion before the value X in LL
 
-	Day - 713:
-	138. LeetCode 507  : Perfect Number
+    Day - 713:
+	138. TUF+          : Insertion at the tail of LL
 
 	Day - 714:
-	139. LeetCode 344  : Reverse String
+	139. TUF+          : Insertion at the Kth position of LL
 
 	Day - 715:
-	140. LeetCode 125  : Valid Palindrome
+	140.  TUF+         : Insertion at the head of LL
 
 	Day - 716:
-	141. LeetCode 268  : Missing Number in an Array
+	141. LeetCode 214  : Shortest Palindrome
 
 	Day - 717:
-	142. LeetCode 1004 : Max Consecutive Ones III
+	142. LeetCode 1392 : Longest Happy Prefix
 
-	Day - 718:
-	143. LeetCode 424  : Longest Repeating Character Replacement
+    Day - 718:
+	143. LeetCode 282  : Expression Add Operators
 
 	Day - 719:
-	144. LeetCode 930  : Binary Subarrays With Sum
+	144. LeetCode 139  : Word Break
 
 	Day - 720:
-	145. LeetCode 1248 : Count Number of Nice Subarrays
+	145. LeetCode 8    : String to Integer (atoi)
 
 	Day - 721:
-	146. LeetCode 204  : Count Primes
+	146. LeetCode 1922 : Count Good Numbers
 
 	Day - 722:
-	147. LeetCode 51   : N-Queens
+	147. TUF+          : Prime factorisation of a Number
 
 	Day - 723:
-	148.				 Tiling Problem
+	148. LeetCode 29   : Divide Two Integers
 
 	Day - 724:
-	149. TUF+          : Matrix Median
+	149. TUF+          : Single Number - 3
+
+	Day - 725:
+	150. TUF+          : Aggressive Cows
