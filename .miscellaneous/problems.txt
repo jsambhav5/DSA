@@ -2251,3 +2251,6 @@ Revised 3:
 
 	Day - 727:
 	152. Leetcode 152  : Maximum Product Subarray
+
+	Day - 728:
+	153. TUF+          : Find the repeating and missing number
