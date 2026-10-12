@@ -2257,3 +2257,6 @@ Revised 3:
 
 	Day - 729:
 	154. LeetCode 493  : Reverse Pairs
+
+	Day - 730:
+	155. LeetCode 1021 : Remove Outermost Parentheses
