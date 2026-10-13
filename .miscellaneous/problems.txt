@@ -2260,3 +2260,6 @@ Revised 3:
 
 	Day - 730:
 	155. LeetCode 1021 : Remove Outermost Parentheses
+
+	Day - 731:
+	156. LeetCode 1614 : Maximum Nesting Depth of the Parentheses
