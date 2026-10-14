@@ -2263,3 +2263,6 @@ Revised 3:
 
 	Day - 731:
 	156. LeetCode 1614 : Maximum Nesting Depth of the Parentheses
+
+	Day - 732:
+	157. TUF+          : Find Nth root of a number
