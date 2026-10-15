@@ -2266,3 +2266,6 @@ Revised 3:
 
 	Day - 732:
 	157. TUF+          : Find Nth root of a number
+
+	Day - 733:
+	158. TUF+          : Find square root of a number
