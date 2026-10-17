@@ -2274,4 +2274,4 @@ Revised 3:
 	159. TUF+          : Find out how many times the array is rotated
 
 	Day - 735:
-	158. TUF+          : Find square root of a number
+	160. TUF+          : Floor and Ceil in Sorted Array
