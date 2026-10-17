@@ -2272,3 +2272,6 @@ Revised 3:
 
 	Day - 734:
 	159. TUF+          : Find out how many times the array is rotated
+
+	Day - 735:
+	158. TUF+          : Find square root of a number
