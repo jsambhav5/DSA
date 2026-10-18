@@ -2275,3 +2275,6 @@ Revised 3:
 
 	Day - 735:
 	160. TUF+          : Floor and Ceil in Sorted Array
+
+	Day - 736:
+	161. TUF+          : Upper Bound
