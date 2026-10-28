@@ -2305,3 +2305,6 @@ Revised 3:
 
 	Day - 745:
 	170. Leetcode 1283 : Find the Smallest Divisor Given a Threshold
+
+	Day - 746:
+	171. Leetcode 1901 : Find a Peak Element II
