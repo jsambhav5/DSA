@@ -2323,3 +2323,6 @@ Revised 3:
 
 	Day - 751:
 	176. Leetcode 33   : Search in Rotated Sorted Array
+
+	Day - 752:
+	177. Leetcode 34   : Find First and Last Position of Element in Sorted Array
