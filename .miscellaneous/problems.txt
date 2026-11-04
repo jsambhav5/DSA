@@ -2326,3 +2326,6 @@ Revised 3:
 
 	Day - 752:
 	177. Leetcode 34   : Find First and Last Position of Element in Sorted Array
+
+	Day - 753:
+	178. Leetcode 35   : Search Insert Position
