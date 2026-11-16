@@ -2362,3 +2362,6 @@ Revised 3:
 
 	Day - 764:
 	189. Leetcode 75   : Sort Colors
+
+	Day - 765:
+	190. Leetcode 1    : Two Sum
