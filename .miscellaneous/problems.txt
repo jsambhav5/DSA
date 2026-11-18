@@ -2368,3 +2368,6 @@ Revised 3:
 
 	Day - 766:
 	191. TUF+          : Leaders in an Array
+
+	Day - 767:
+	192. TUF+          : Intersection of two sorted arrays
