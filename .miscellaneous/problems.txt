@@ -2371,3 +2371,6 @@ Revised 3:
 
 	Day - 767:
 	192. TUF+          : Intersection of two sorted arrays
+
+	Day - 768:
+	193. LeetCode 128  : Longest Consecutive Sequence
