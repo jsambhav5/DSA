@@ -2377,3 +2377,6 @@ Revised 3:
 
 	Day - 767:
 	194. TUF+          : Union of two sorted arrays
+
+	Day - 768:
+	195. TUF+          : Second Largest Element
