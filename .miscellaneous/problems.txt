@@ -2375,8 +2375,11 @@ Revised 3:
 	Day - 768:
 	193. LeetCode 128  : Longest Consecutive Sequence
 
-	Day - 767:
+	Day - 769:
 	194. TUF+          : Union of two sorted arrays
 
-	Day - 768:
+	Day - 770:
 	195. TUF+          : Second Largest Element
+
+    Day - 771:
+	196. LeetCode 26   : Remove Duplicates from Sorted Array
